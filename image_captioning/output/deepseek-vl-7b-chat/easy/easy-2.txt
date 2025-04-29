@@ -1,0 +1,53 @@
+Structure Information:
+- Structure: Cobblestone Wall
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built in a square shape, with each corner having a cobblestone block.
+- Description: The wall is constructed using cobblestone blocks, creating a sturdy and durable structure.
+
+Structure Information:
+- Structure: Cobblestone Floor
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor is built directly on top of the cobblestone wall, creating a seamless transition between the two.
+- Description: The floor is constructed using cobblestone blocks, providing a stable and durable surface.
+
+Structure Information:
+- Structure: Cobblestone Roof
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof is built directly on top of the cobblestone floor, creating a seamless transition between the two.
+- Description: The roof is constructed using cobblestone blocks, providing a stable and durable covering.
+
+Structure Information:
+- Structure: Cobblestone Door
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The door is built in the center of the cobblestone wall, with a 1-block gap on each side for easy access.
+- Description: The door is constructed using cobblestone blocks, providing a sturdy and durable entrance.
+
+Structure Information:
+- Structure: Cobblestone Window
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The window is built in the center of the cobblestone wall, with a 1-block gap on each side for easy access.
+- Description: The window is constructed using cobblestone blocks, providing a sturdy and durable viewing area.
+
+Structure Information:
+- Structure: Cobblestone Wall with Stone Bricks
+- Material: Cobblestone, Stone Bricks
+- Number of Materials: 6 (cobblestone) + 6 (stone bricks)
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built using cobblestone blocks for the main structure and stone bricks for the decorative border.
+- Description: The wall is constructed using cobblestone blocks for the main structure and stone bricks for the decorative border, creating a visually appealing design.

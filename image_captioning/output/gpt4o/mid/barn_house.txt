@@ -1,0 +1,157 @@
+1. Detailed Building Description
+	1.	Foundation and Ground-Floor Walls (Stone Bricks)
+	•	A roughly rectangular footprint measuring about 9 blocks wide (x) × 9 blocks deep (z).
+	•	Height of the stone_bricks portion is 4 blocks (from y=0 up to y=4).
+	•	The interior is mostly hollow, although there are some decorative arches and alcoves.
+	•	A front entrance (not counted here, as doors are not in the provided list) would be at ground level.
+	2.	Stone Bricks Chimney
+	•	Rises along one side of the house, extending from ground level (y=0) up through (and slightly above) the roof, reaching about y=10.
+	•	Built of the same stone_bricks as the foundation, but narrower in footprint (approximately 2×2 blocks).
+	3.	Upper Walls: Timber Framing
+	•	Above y=4, the second story has visible vertical and horizontal beams that use spruce_planks (representing dark timber).
+	•	The in-between “white” areas are approximated with birch_planks for a lighter contrast.
+	•	The second story’s height is about 4 blocks (from y=4 to y=8), giving the house a tall profile.
+	4.	Steep Gabled Roof
+	•	Constructed with spruce_planks.
+	•	Peaks around y=11 or y=12 in the center, forming a prominent A-frame visible from the front.
+	•	Overhangs the walls slightly for a decorative, medieval–fantasy appearance.
+	5.	Approximate Dimensions & Block Counts
+	•	Overall Footprint: ~9 (x) × 9 (z)
+	•	Overall Height: ~12 blocks (y=0 to y=12 at the highest point of the roof or chimney)
+	•	stone_bricks: ~200 total (foundation, ground-floor walls, chimney)
+	•	spruce_planks: ~120 total (upper-story framing, roof structure)
+	•	birch_planks: ~60 total (filling the “white” panels in the second floor)
+
+(Note: Exact block counts can vary based on interior details or small design changes. These estimates will suffice to replicate the visible exterior.)
+
+⸻
+
+2. Structured Reconstruction Information
+
+Below are five distinct building steps/components. Each step assumes you have completed the previous ones in place, so the Position fields build on earlier layers.
+
+⸻
+
+Component 1: Stone Bricks Foundation
+
+Structure Information
+	•	Structure: Rectangular Foundation (Stone Bricks)
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: ~80 blocks (for a sturdy, fully filled or partially hollow base)
+	•	Dimension:
+	    •	Approx. 9 blocks wide (x) × 9 blocks deep (z) × 1 block tall (y)
+	    •	From y=0 (ground) up to y=1
+	•	Position:
+	    •	Center it so x and z range roughly from -4 to +4 around (0, 0, 0).
+	    •	The top of this foundation lies at y=1.
+	•	Tips:
+	    1.	You may build the foundation solid if you want stability, or hollow it out to conserve blocks.
+	    2.	Make sure it is level and covers the full 9×9 footprint to accommodate the walls.
+	•	Description:
+	    •	A flat stone_bricks slab that serves as the house’s sturdy base, preventing direct contact with dirt or grass.
+
+⸻
+
+Component 2: Ground-Floor Walls (Stone Bricks)
+
+Structure Information
+	•	Structure: Stone Bricks Walls (Lower Story)
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: ~100 blocks (stacked around the perimeter, 3 blocks tall)
+	•	Dimension:
+	    •	Continues the same 9×9 footprint.
+	    •	Built from y=1 up to y=4.
+	•	Position:
+	    •	Place this layer on top of the foundation, forming walls around the edges.
+	    •	The finished top of these walls will be y=4.
+	•	Tips:
+	    1.	Leave room (1–2 blocks wide, 2 blocks high) for an entrance on one side if desired.
+	    2.	Form any decorative arches or alcoves by adjusting the wall shape (e.g., adding recesses).
+	    3.	Keep an interior space of about 7×7 inside.
+	•	Description:
+	    •	Creates a robust, medieval-style first floor. Some sections might protrude or recess for detail, but the main shape is a 9×9 outer boundary.
+
+⸻
+
+Component 3: Stone Bricks Chimney
+
+Structure Information
+	•	Structure: Stone Bricks Chimney Stack
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: ~20 additional blocks
+	•	Dimension:
+	    •	About 2×2 in footprint, extending from y=0 or y=1 (foundation level) up to around y=10.
+	•	Position:
+	    •	Attach it to one corner or side of the building, aligned with the stone_bricks walls.
+	    •	It should pierce through the roof (built in the next steps).
+	•	Tips:
+	    1.	Make the chimney narrow but tall for a classic “cottage” look.
+	    2.	Keep the interior of the chimney hollow or place blocks in a vertical column—this is aesthetic, so either approach works.
+	    3.	Optionally, widen the top or add a small ledge.
+	•	Description:
+	    •	A functional or decorative stone_bricks chimney that helps break up the roofline and adds visual interest.
+
+⸻
+
+Component 4: Upper Walls (Timber Framing)
+
+Structure Information
+	•	Structure: Second-Story Timber Frame
+	•	Material:
+	    •	spruce_planks (beams)
+	    •	birch_planks (light infill)
+	•	Number of Materials:
+	    •	spruce_planks: ~40 blocks (for vertical/horizontal beams)
+	    •	birch_planks: ~60 blocks (infill panels)
+	•	Dimension:
+	    •	Same ~9×9 footprint, though partial walls might step inwards.
+	    •	4 blocks tall: from y=4 to y=8.
+	•	Position:
+	    •	Directly on top of the stone_bricks walls at y=4.
+	    •	Extend upward to y=8, forming a second story.
+	•	Tips:
+	    1.	Lay out “support beams” with spruce_planks at corners and edges.
+	    2.	Fill the gaps between beams with birch_planks to simulate a half-timber style.
+	    3.	Leave space for windows (either open or replaced with glass_pane if you wish to incorporate windows from the list).
+	•	Description:
+	    •	A classic medieval/fantasy half-timber design—dark wood beams contrasted against light panels. This creates a taller, more refined second floor.
+
+⸻
+
+Component 5: Spruce Planks Roof
+
+Structure Information
+	•	Structure: Steep Gabled Roof
+	•	Material:
+	    •	spruce_planks
+	•	Number of Materials:
+	    •	spruce_planks: ~80 blocks (covering the full roof + gabled ends)
+	•	Dimension:
+	    •	Spans roughly 9×9 horizontally, though the peaked shape narrows toward the top.
+	    •	The ridgeline (peak) reaches around y=11 or y=12, slightly higher than the second floor’s top (y=8).
+	•	Position:
+	    •	Base of the roof begins just above y=8, overhanging the second-floor walls by a block or so.
+	    •	Apex is centered along the building’s longer axis (if the gable faces front) or whichever axis you prefer.
+	•	Tips:
+	    1.	Use stepped layers of spruce_planks to create the slope, starting from the outer edges at y=8.
+	    2.	Gable ends can be filled with spruce_planks or left partially open for windows in the attic.
+	    3.	Ensure the chimney extends through or just alongside the roof.
+	•	Description:
+	    •	A steeply pitched wooden roof common in medieval or fantasy builds. The layered approach gives it a dramatic silhouette and enough interior space for an attic if desired.
+
+⸻
+
+Putting It All Together
+	1.	Foundation at y=0 → y=1
+	2.	Ground-Floor Stone Walls up to y=4
+	3.	Chimney running the full height, from y=0 (or y=1) to above the roofline
+	4.	Timber-Framed Second Floor from y=4 → y=8 (spruce_planks + birch_planks)
+	5.	Gabled Roof from y=8 → y=11 or y=12
+
+With these five steps, you will replicate the house’s appearance—solid stone_bricks on the lower level and chimney, half-timber walls on the upper level, and a tall, spruce_planks roof. Adjust finer details (like window shapes, minor alcoves, or overhang depth) to match the style you see in the reference image, but this plan provides the essential blueprint to rebuild the structure without relying on any background blocks or additional items.

@@ -1,0 +1,35 @@
+Building Description:
+
+1. The building consists of a single, square-shaped structure with a flat roof.
+2. The structure is made of gray bricks for the walls and a wooden plank for the roof.
+3. The building is positioned in the center of the coordinate system, with its width being 2 blocks and its height being 2 blocks.
+4. The building's position is (0, 0, 0) for the x-axis, (0, 2, 0) for the y-axis, and (0, 0, 0) for the z-axis.
+
+Structured Reconstruction Information:
+
+Structure Information:
+- Structure: Brick Wall
+- Material: Gray Bricks
+- Number of Materials: 6 (2 for each side of the wall)
+- Dimension: 2 blocks wide and 2 blocks high
+- Position: (0, 0, 0) to (2, 2, 0)
+- Tips: The wall is square, so ensure the corners are aligned correctly.
+- Description: A simple, square-shaped wall made of gray bricks.
+
+Structure Information:
+- Structure: Wooden Roof
+- Material: Wooden Plank
+- Number of Materials: 1 (1 plank for the roof)
+- Dimension: 2 blocks wide and 2 blocks long
+- Position: (0, 2, 0) to (2, 2, 0)
+- Tips: The roof is flat, so ensure it is aligned correctly with the walls.
+- Description: A flat wooden roof covering the top of the brick wall.
+
+Structure Information:
+- Structure: Entryway
+- Material: Gray Bricks
+- Number of Materials: 2 (1 for each side of the entryway)
+- Dimension: 1 block wide and 2 blocks high
+- Position: (0, 2, 0) to (1, 2, 0)
+- Tips: The entryway is a simple, square-shaped opening in the wall.
+- Description: A square entryway made of gray bricks, allowing access to the interior of the building.

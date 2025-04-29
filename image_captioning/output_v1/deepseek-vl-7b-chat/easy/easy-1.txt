@@ -1,0 +1,71 @@
+Building Description:
+
+1. The building consists of a square-shaped structure with a flat roof.
+2. The structure is made of stone blocks.
+3. The building is approximately 4 blocks wide and 4 blocks tall.
+4. The position of the building is centered at (0, 0, 0), with the top of the structure pointing upward.
+
+Structured Reconstruction Information:
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone Blocks
+- Number of Materials: 1
+- Dimension: 4 blocks wide and 4 blocks tall
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of blocks, and the corners are rounded.
+- Description: The wall serves as the primary structure for the building, providing a solid base and enclosing the space.
+
+Structure Information:
+- Structure: Flat Roof
+- Material: Stone Blocks
+- Number of Materials: 4
+- Dimension: 4 blocks wide and 4 blocks tall
+- Position: (0, 0, 0)
+- Tips: The roof is built with a single layer of blocks, and the corners are rounded.
+- Description: The roof provides shelter and protection from the elements.
+
+Structure Information:
+- Structure: Entrance
+- Material: Stone Blocks
+- Number of Materials: 2
+- Dimension: 2 blocks wide and 2 blocks tall
+- Position: (0, 0, 0)
+- Tips: The entrance is built with a single layer of blocks, and the top is rounded.
+- Description: The entrance provides access to the building and is made of two blocks wide and two blocks tall.
+
+Structure Information:
+- Structure: Windows
+- Material: Stone Blocks
+- Number of Materials: 2
+- Dimension: 2 blocks wide and 2 blocks tall
+- Position: (0, 0, 0)
+- Tips: The windows are built with a single layer of blocks, and the top is rounded.
+- Description: The windows allow light to enter the building and provide ventilation.
+
+Structure Information:
+- Structure: Door
+- Material: Stone Blocks
+- Number of Materials: 2
+- Dimension: 2 blocks wide and 2 blocks tall
+- Position: (0, 0, 0)
+- Tips: The door is built with a single layer of blocks, and the top is rounded.
+- Description: The door provides access to the building and is made of two blocks wide and two blocks tall.
+
+Structure Information:
+- Structure: Stairs
+- Material: Stone Blocks
+- Number of Materials: 4
+- Dimension: 4 blocks wide and 4 blocks tall
+- Position: (0, 0, 0)
+- Tips: The stairs are built with a single layer of blocks, and the top is rounded.
+- Description: The stairs provide access to the upper level of the building.
+
+Structure Information:
+- Structure: Upper Level
+- Material: Stone Blocks
+- Number of Materials: 4
+- Dimension: 4 blocks wide and 4 blocks tall
+- Position: (0, 0, 0)
+- Tips: The upper level is built with a single layer of blocks, and the top is rounded.
+- Description: The upper level provides additional space and can be used for storage or other purposes.

@@ -1,0 +1,68 @@
+### Detailed Building Description
+
+The building appears to be a multi-layered structure made primarily of cobblestone blocks. It has a central chimney-like feature at the top, which seems to be constructed with dark-colored blocks, possibly obsidian or coal blocks. The base of the structure is wider and tapers upwards, resembling a tower or monument.
+
+#### Components:
+1. **Base Layer**
+   - **Material:** Cobblestone
+   - **Dimensions:** 8x8x4 (Width x Height x Depth)
+   - **Position:** (0, 0, 0) to (7, 3, 7)
+   - **Description:** This forms the foundational base of the structure.
+
+2. **Middle Layer**
+   - **Material:** Cobblestone
+   - **Dimensions:** 6x6x4 (Width x Height x Depth)
+   - **Position:** (0, 3, 0) to (5, 7, 5)
+   - **Description:** This layer sits on top of the base and narrows slightly towards the center.
+
+3. **Top Layer**
+   - **Material:** Cobblestone
+   - **Dimensions:** 4x4x4 (Width x Height x Depth)
+   - **Position:** (0, 7, 0) to (3, 11, 3)
+   - **Description:** This is the uppermost section of the structure, forming the main body.
+
+4. **Chimney**
+   - **Material:** Dark-colored blocks (possibly obsidian or coal)
+   - **Dimensions:** 4x4x4 (Width x Height x Depth)
+   - **Position:** (0, 11, 0) to (3, 15, 3)
+   - **Description:** This is the chimney-like feature at the very top of the structure.
+
+### Structured Reconstruction Information
+
+#### Step 1: Base Layer
+- **Structure:** Foundation
+- **Material:** Cobblestone
+- **Number of Materials:** 128 (8x8x4)
+- **Dimension:** 8x8x4
+- **Position:** (0, 0, 0) to (7, 3, 7)
+- **Tips:** Start by placing cobblestone blocks in a 8x8 square at the bottom, then build up to a height of 3 blocks.
+- **Description:** This forms the base of the structure.
+
+#### Step 2: Middle Layer
+- **Structure:** Middle Section
+- **Material:** Cobblestone
+- **Number of Materials:** 64 (6x6x4)
+- **Dimension:** 6x6x4
+- **Position:** (0, 3, 0) to (5, 7, 5)
+- **Tips:** Place cobblestone blocks on top of the base layer, ensuring it is centered and slightly narrower than the base.
+- **Description:** This layer adds height and narrows the structure.
+
+#### Step 3: Top Layer
+- **Structure:** Upper Section
+- **Material:** Cobblestone
+- **Number of Materials:** 32 (4x4x4)
+- **Dimension:** 4x4x4
+- **Position:** (0, 7, 0) to (3, 11, 3)
+- **Tips:** Place cobblestone blocks on top of the middle section, ensuring it is centered and forms the main body of the structure.
+- **Description:** This completes the main body of the structure.
+
+#### Step 4: Chimney
+- **Structure:** Chimney
+- **Material:** Dark-colored blocks (obsidian or coal)
+- **Number of Materials:** 64 (4x4x4)
+- **Dimension:** 4x4x4
+- **Position:** (0, 11, 0) to (3, 15, 3)
+- **Tips:** Place dark-colored blocks on top of the upper section, ensuring they form a chimney shape.
+- **Description:** This adds a distinctive feature to the top of the structure.
+
+By following these steps and using the specified materials and dimensions, anyone can reconstruct the building described in the image.

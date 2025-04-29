@@ -1,0 +1,112 @@
+### Detailed Building Description
+
+The building appears to be a small, rustic house with a chimney and a fenced area around its base. Here's a breakdown of the components:
+
+1. **Foundation and Base**: 
+   - Constructed primarily from gray stone blocks.
+   - Dimensions: 6x6x2 (Width x Depth x Height)
+   - Position: (0, 0, 0) to (5, 0, 5)
+
+2. **Walls**:
+   - Walls are made of brown wooden planks.
+   - Dimensions: 6x6x2 (Width x Depth x Height)
+   - Position: (0, 1, 0) to (5, 1, 5)
+
+3. **Roof**:
+   - Roof is constructed with brown wooden planks.
+   - Dimensions: 6x6x2 (Width x Depth x Height)
+   - Position: (0, 2, 0) to (5, 2, 5)
+
+4. **Chimney**:
+   - Chimney is made of gray stone blocks.
+   - Dimensions: 3x3x7 (Width x Depth x Height)
+   - Position: (3, 2, 3) to (3, 8, 3)
+
+5. **Entryway**:
+   - Entryway is framed by wooden planks and has a door made of oak wood.
+   - Dimensions: 2x2x2 (Width x Depth x Height)
+   - Position: (2, 2, 2) to (3, 4, 3)
+
+6. **Fence**:
+   - Fence surrounds the base of the house.
+   - Dimensions: 6x6x1 (Width x Depth x Height)
+   - Position: (0, 0, 0) to (5, 0, 5)
+
+7. **Lanterns**:
+   - Lanterns are placed around the fence.
+   - Dimensions: 1x1x1 (Width x Depth x Height)
+   - Position: (0, 0, 0) to (5, 0, 5)
+
+8. **Flowers**:
+   - Flowers are planted near the fence.
+   - Dimensions: 1x1x1 (Width x Depth x Height)
+   - Position: (0, 0, 0) to (5, 0, 5)
+
+9. **Potted Plant**:
+   - A potted plant is located near the entrance.
+   - Dimensions: 1x1x1 (Width x Depth x Height)
+   - Position: (2, 0, 2)
+
+### Structured Reconstruction Information
+
+#### Structure Information: Foundation and Base
+- **Structure**: Foundation and Base
+- **Material**: Gray Stone Blocks
+- **Number of Materials**: 36 (6x6x2)
+- **Dimension**: 6x6x2
+- **Position**: (0, 0, 0) to (5, 0, 5)
+- **Tips**: Place the first layer of gray stone blocks along the edges of the intended base, then add the second layer.
+- **Description**: This forms the structural foundation of the house.
+
+#### Structure Information: Walls
+- **Structure**: Walls
+- **Material**: Brown Wooden Planks
+- **Number of Materials**: 36 (6x6x2)
+- **Dimension**: 6x6x2
+- **Position**: (0, 1, 0) to (5, 1, 5)
+- **Tips**: Build the walls by placing brown wooden planks vertically along the sides of the foundation.
+- **Description**: These form the outer walls of the house.
+
+#### Structure Information: Roof
+- **Structure**: Roof
+- **Material**: Brown Wooden Planks
+- **Number of Materials**: 36 (6x6x2)
+- **Dimension**: 6x6x2
+- **Position**: (0, 2, 0) to (5, 2, 5)
+- **Tips**: Place brown wooden planks horizontally across the top of the walls.
+- **Description**: This forms the roof covering the house.
+
+#### Structure Information: Chimney
+- **Structure**: Chimney
+- **Material**: Gray Stone Blocks
+- **Number of Materials**: 21 (3x3x7)
+- **Dimension**: 3x3x7
+- **Position**: (3, 2, 3) to (3, 8, 3)
+- **Tips**: Start with the base of the chimney using gray stone blocks, then build upwards.
+- **Description**: This is the chimney for the house, providing ventilation.
+
+#### Structure Information: Entryway
+- **Structure**: Entryway
+- **Material**: Brown Wooden Planks and Oak Wood Door
+- **Number of Materials**: 12 (2x2x2)
+- **Dimension**: 2x2x2
+- **Position**: (2, 2, 2) to (3, 4, 3)
+- **Tips**: Place the wooden planks around the door frame and install the oak wood door.
+- **Description**: This is the entrance to the house.
+
+#### Structure Information: Fence
+- **Structure**: Fence
+- **Material**: Brown Wooden Planks
+- **Number of Materials**: 36 (6x6x1)
+- **Dimension**: 6x6x1
+- **Position**: (0, 0, 0) to (5, 0, 5)
+- **Tips**: Place brown wooden planks horizontally along the perimeter of the base.
+- **Description**: This encloses the area around the house.
+
+#### Structure Information: Lanterns
+- **Structure**: Lanterns
+- **Material**: Glowstone Dust (for lanterns)
+- **Number of Materials**: 4 (1x1x1)
+- **Dimension**: 1x1x1
+- **Position**: (0, 0, 0) to (5, 0, 5)
+- **Tips**: Place glowstone dust inside

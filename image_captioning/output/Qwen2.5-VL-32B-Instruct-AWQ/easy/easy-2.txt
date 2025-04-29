@@ -1,0 +1,36 @@
+### Detailed Building Description
+
+The image shows a simple rectangular structure made entirely of **cobblestone** blocks. The structure appears to be a raised platform or a small enclosure with an open top. The visible dimensions suggest it is approximately **6 blocks wide × 6 blocks long × 3 blocks tall**. The structure is elevated above the ground, indicating that it might be built on a foundation or directly on the ground with the ground level adjusted.
+
+### Structured Reconstruction Information
+
+#### Step 1: Cobblestone Base (Foundation)
+**Structure Information:**
+- **Structure:** Cobblestone Base
+- **Material:** cobblestone
+- **Number of Materials:** 36 blocks of cobblestone
+- **Dimension:** 6 blocks wide × 6 blocks long × 1 block tall
+- **Position:** Start at (0, 0, 0) and extend to (5, 0, 5). This forms a flat, square base.
+- **Tips:** Ensure the base is perfectly level and square. Use the ground level as the reference for the y-coordinate.
+- **Description:** This is the foundational layer of the structure, providing a stable base for the walls.
+
+#### Step 2: Cobblestone Walls
+**Structure Information:**
+- **Structure:** Cobblestone Walls
+- **Material:** cobblestone
+- **Number of Materials:** 48 blocks of cobblestone
+- **Dimension:** 6 blocks wide × 3 blocks tall × 1 block deep (for each wall segment)
+- **Position:** 
+  - Build the first wall segment starting at (0, 1, 0) and extending to (0, 3, 5). This forms the back wall.
+  - Build the second wall segment starting at (0, 1, 5) and extending to (5, 3, 5). This forms the right wall.
+  - Build the third wall segment starting at (5, 1, 0) and extending to (5, 3, 5). This forms the front wall.
+  - Build the fourth wall segment starting at (0, 1, 0) and extending to (5, 3, 0). This forms the left wall.
+- **Tips:** Ensure that the walls are perfectly vertical and aligned with the base. The walls should be 3 blocks tall, starting from the top of the base layer.
+- **Description:** These walls form the enclosing structure, creating a rectangular box with an open top.
+
+### Final Notes
+- The structure is a simple cobblestone enclosure with no roof or additional features. It is designed to be a raised platform or a small, open-sided box.
+- The total number of cobblestone blocks required for the entire structure is **84 blocks** (36 for the base + 48 for the walls).
+- The structure is symmetrical and can be easily replicated by following the step-by-step instructions provided.
+
+This guide ensures that anyone can reconstruct the building accurately using the provided instructions and material list.

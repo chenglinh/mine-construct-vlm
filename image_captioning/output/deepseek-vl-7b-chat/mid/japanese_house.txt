@@ -1,0 +1,71 @@
+Structure Information:
+- Structure: Foundation
+- Material: cobblestone
+- Number of Materials: 6
+- Dimension: 6 blocks wide by 4 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: Place the foundation at the base of the building, ensuring it is level and stable.
+- Description: The foundation is made of cobblestone blocks, providing a sturdy base for the building.
+
+Structure Information:
+- Structure: Walls
+- Material: oak_planks
+- Number of Materials: 12
+- Dimension: 6 blocks wide by 4 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The walls are made of oak planks, which are placed horizontally and vertically to create the structure.
+- Description: The walls are constructed using oak planks, providing a sturdy and aesthetically pleasing exterior.
+
+Structure Information:
+- Structure: Roof
+- Material: red_sandstone
+- Number of Materials: 12
+- Dimension: 6 blocks wide by 4 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The roof is made of red sandstone blocks, which are placed in a staggered pattern to create the gabled roof.
+- Description: The roof is constructed using red sandstone blocks, providing a durable and visually appealing top layer.
+
+Structure Information:
+- Structure: Deck
+- Material: spruce_planks
+- Number of Materials: 6
+- Dimension: 4 blocks wide by 2 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The deck is made of spruce planks, which are placed horizontally to create the surface.
+- Description: The deck is constructed using spruce planks, providing a comfortable outdoor space to enjoy the surrounding scenery.
+
+Structure Information:
+- Structure: Entryway
+- Material: oak_door
+- Number of Materials: 1
+- Dimension: 2 blocks wide by 2 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The entryway is made of an oak door, which is placed in the center of the wall.
+- Description: The entryway is constructed using an oak door, providing a secure and inviting entrance to the building.
+
+Structure Information:
+- Structure: Windows
+- Material: glass_pane
+- Number of Materials: 4
+- Dimension: 2 blocks wide by 2 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The windows are made of glass panes, which are placed in the upper half of the walls.
+- Description: The windows are constructed using glass panes, providing natural light and a view of the surroundings.
+
+Structure Information:
+- Structure: Chimney
+- Material: cobblestone
+- Number of Materials: 1
+- Dimension: 2 blocks wide by 2 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The chimney is made of cobblestone blocks, which are placed in the center of the roof.
+- Description: The chimney is constructed using cobblestone blocks, providing a functional and decorative feature.
+
+Structure Information:
+- Structure: Stairs
+- Material: oak_planks
+- Number of Materials: 6
+- Dimension: 4 blocks wide by 2 blocks deep (relative to the xyz coordinate system)
+- Position: (0, 0, 0)
+- Tips: The stairs are made of oak planks, which are placed horizontally to create the steps.
+- Description: The stairs are constructed using oak planks, providing a safe and comfortable way to access the upper level of the building.

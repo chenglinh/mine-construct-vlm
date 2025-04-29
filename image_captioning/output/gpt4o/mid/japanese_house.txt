@@ -1,0 +1,138 @@
+1. Detailed Building Description
+	1.	Overall Shape and Size
+	•	The house footprint is roughly 7 blocks wide (x) by 7 blocks deep (z).
+	•	The total height (from ground to the roof’s peak) is about 8 or 9 blocks (y).
+	•	The style is reminiscent of a small “cottage” with half-timber framing (dark spruce beams, white infill).
+	2.	Foundation and Porch
+	•	A small cobblestone step leads up to an oak_planks porch, which wraps around the front face.
+	•	The porch is ~7 blocks wide (matching the house’s front width) and extends ~2 blocks outward.
+	3.	Walls
+	•	Spruce_planks form vertical and horizontal beams.
+	•	Quartz_block fills the gaps between beams, creating a white, plaster-like finish.
+	•	The ground floor stands 3 blocks tall (y=0 to y=3), and a small “attic” or upper wall section extends above that (y=3 to ~y=5).
+	4.	Roof
+	•	A steeply angled roof of nether_bricks rises from about y=5 up to y=8 or y=9 at its peak.
+	•	The roof overhangs on the sides by 1 block, giving the classic cottage silhouette.
+	•	The front features a small, centered gable or “mini-roof” section above the white attic portion.
+	5.	Approximate Block Counts
+	•	cobblestone: ~10 (front step and minor foundation details)
+	•	oak_planks: ~30 (porch decking and possible support posts)
+	•	spruce_planks: ~60 (framing, beams, partial walls)
+	•	quartz_block: ~40 (white wall infill)
+	•	nether_bricks: ~60 (roof blocks, including ridges/overhang)
+
+(Exact numbers may vary slightly, but these estimates will reproduce the visible exterior.)
+
+⸻
+
+2. Structured Reconstruction Information
+
+Below are four main steps, each building on the last. You can adjust small details (like window openings or door placement) as desired.
+
+⸻
+
+Component 1: Cobblestone Step and Oak Porch
+
+Structure Information
+	•	Structure: Front Step + Wooden Porch
+	•	Material:
+	    •	cobblestone
+	    •	oak_planks
+	•	Number of Materials:
+	    •	cobblestone: ~10
+	    •	oak_planks: ~30
+	•	Dimension:
+	    •	Porch: ~7 blocks wide (x) × 2 blocks deep (z) × 1 block high (y).
+	    •	Step: 1–2 cobblestone blocks at the front center, from ground level (y=0) up to porch level (y=1).
+	•	Position:
+	    •	Center the porch on the house’s front side, with x ranging from -3 to +3 and z = 0 or 1 (if you choose the front edge at z=1).
+	    •	The top surface of the porch sits at y=1.
+	•	Tips:
+	    1.	Place a row of oak_planks across the full 7-block width.
+	    2.	Extend oak_planks 2 blocks outward (z-direction) for a comfortable front deck.
+	    3.	Put a short cobblestone step (1 block tall) at the center front, aligned with the door position.
+	•	Description:
+	    •	This raised porch is the entry platform, giving the build a welcoming, rustic feel. The small cobblestone step helps bridge the ground to the deck.
+
+⸻
+
+Component 2: Ground-Floor Walls (Spruce & Quartz)
+
+Structure Information
+	•	Structure: Lower Wall Frame and White Infill
+	•	Material:
+	    •	spruce_planks
+	    •	quartz_block
+	•	Number of Materials:
+	    •	spruce_planks: ~30
+	    •	quartz_block: ~20
+	•	Dimension:
+	    •	Overall 7×7 footprint continues behind the porch.
+	    •	The wall height is 3 blocks (from y=1 to y=4).
+	•	Position:
+	    •	Build directly behind and above the porch, starting at y=1.
+	    •	Extend walls around the perimeter, leaving a 5×5 interior if the walls are 1 block thick.
+	•	Tips:
+	    1.	Outline the corners and edges with spruce_planks “beams.”
+	    2.	Fill the spaces between beams with quartz_block.
+	    3.	If you want windows or a doorway, leave 1×2 or 2×2 openings.
+	•	Description:
+	    •	This step creates the sturdy, half-timber style ground floor. The white quartz_block panels contrast with the dark spruce frame for a classic cottage look.
+
+⸻
+
+Component 3: Attic Walls (Spruce & Quartz)
+
+Structure Information
+	•	Structure: Small Upper Wall Section
+	•	Material:
+	    •	spruce_planks
+	    •	quartz_block
+	•	Number of Materials:
+	    •	spruce_planks: ~30
+	    •	quartz_block: ~20
+	•	Dimension:
+	    •	Narrower upper portion that sits at y=4 through y=5, usually centered on the front/back.
+	    •	Possibly 1–2 blocks inset from the lower floor’s perimeter (if you want a slight overhang).
+	•	Position:
+	    •	Placed above the lower walls, from y=4 to about y=5.
+	    •	The front face might protrude to align with the roof’s gable.
+	•	Tips:
+	    1.	Build a short “second floor” or attic front with spruce beams on the edges and quartz in the middle.
+	    2.	Allow for a small upper window if desired (e.g., 1×1 or 2×1 opening).
+	    3.	This portion helps shape the roofline and adds a second story illusion.
+	•	Description:
+	    •	The partial second level or attic area gives the house a cozy, layered profile, typical of medieval or fantasy cottages.
+
+⸻
+
+Component 4: Nether Bricks Roof
+
+Structure Information
+	•	Structure: Steep Cottage Roof
+	•	Material:
+	    •	nether_bricks
+	•	Number of Materials:
+	    •	nether_bricks: ~60
+	•	Dimension:
+	    •	Overhang covers a 7×7 area plus 1-block extension on each side, for ~9×9 total.
+	    •	Height from y=5 to ~y=8 or y=9 at the highest ridge.
+	•	Position:
+	    •	Base of roof sits at y=5, overlapping the top edges of the walls/attic.
+	    •	Slopes inward to meet at the center ridge.
+	•	Tips:
+	    1.	For each side, step the nether_bricks upward by 1 block as you go inward, creating a symmetrical A-frame.
+	    2.	Extend the roof 1 block beyond the walls on the left/right sides for an authentic overhang.
+	    3.	The front portion has a gable that frames the attic window.
+	•	Description:
+	    •	The dark nether_bricks roof contrasts strongly with the lighter walls. Its steep pitch fits medieval or rustic themes, and a small front gable gives character.
+
+⸻
+
+Putting It All Together
+	1.	Cobblestone Step & Oak Porch at ground level (y=0 → y=1), spanning 7 wide × 2 deep.
+	2.	Ground-Floor Walls (y=1 → y=4) in a half-timber style using spruce_planks beams and quartz_block infill.
+	3.	Attic Walls (y=4 → y=5) for a partial second story, continuing the spruce+quartz design.
+	4.	Nether Bricks Roof from y=5 → y=8 or y=9, forming a tall, cottage-like pitch.
+
+Following these four steps, you can fully reconstruct this compact, storybook-style house using cobblestone, oak_planks, spruce_planks, quartz_block, and nether_bricks—all without needing any background blocks or extra materials.

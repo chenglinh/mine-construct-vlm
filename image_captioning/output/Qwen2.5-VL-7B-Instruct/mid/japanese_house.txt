@@ -1,0 +1,133 @@
+### Detailed Building Description
+
+The building appears to be a small, two-story house with a sloped roof. It features a wooden door, a window, and a porch area. The materials used seem to be a mix of wood, stone, and brick.
+
+#### Foundation
+- **Structure:** Foundation
+- **Material:** stone_bricks
+- **Number of Materials:** 8 (4x2 rectangle)
+- **Dimension:** 4x2x1
+- **Position:** (0, 0, 0) to (3, 0, 1)
+- **Tips:** Place the stone_bricks in a rectangular shape to form the base.
+- **Description:** This forms the bottom layer of the house, providing stability and a solid foundation.
+
+#### Walls
+- **Structure:** Walls
+- **Material:** oak_planks
+- **Number of Materials:** 16 (4x4 square)
+- **Dimension:** 4x4x1
+- **Position:** (0, 1, 0) to (3, 1, 1)
+- **Tips:** Build the walls on top of the foundation, ensuring they align properly with the foundation.
+- **Description:** These walls enclose the space, forming the main structure of the house.
+
+#### Roof
+- **Structure:** Roof
+- **Material:** brick_block
+- **Number of Materials:** 16 (4x4 square)
+- **Dimension:** 4x4x1
+- **Position:** (0, 2, 0) to (3, 2, 1)
+- **Tips:** Place the brick_blocks on top of the walls, ensuring they cover the entire roof area.
+- **Description:** This forms the sloped roof, adding a finishing touch to the house.
+
+#### Door
+- **Structure:** Door
+- **Material:** oak_planks
+- **Number of Materials:** 9 (3x3 square)
+- **Dimension:** 3x3x1
+- **Position:** (1, 1, 0) to (1, 1, 1)
+- **Tips:** Place the oak_planks in a 3x3 square pattern to form the door.
+- **Description:** This provides access to the house.
+
+#### Window
+- **Structure:** Window
+- **Material:** glass_pane
+- **Number of Materials:** 9 (3x3 square)
+- **Dimension:** 3x3x1
+- **Position:** (2, 1, 0) to (2, 1, 1)
+- **Tips:** Place the glass_panes in a 3x3 square pattern to form the window.
+- **Description:** This allows light to enter the house.
+
+#### Porch
+- **Structure:** Porch
+- **Material:** oak_planks
+- **Number of Materials:** 12 (3x4 rectangle)
+- **Dimension:** 3x4x1
+- **Position:** (0, 1, 2) to (2, 1, 2)
+- **Tips:** Place the oak_planks in a 3x4 rectangle to form the porch.
+- **Description:** This extends the front of the house, providing a small outdoor space.
+
+### Structured Reconstruction Information
+
+#### Step 1: Foundation
+```plaintext
+Structure Information:
+- Structure: Foundation
+- Material: stone_bricks
+- Number of Materials: 8
+- Dimension: 4x2x1
+- Position: (0, 0, 0) to (3, 0, 1)
+- Tips: Place stone_bricks in a 4x2 rectangle.
+- Description: Forms the base of the house.
+```
+
+#### Step 2: Walls
+```plaintext
+Structure Information:
+- Structure: Walls
+- Material: oak_planks
+- Number of Materials: 16
+- Dimension: 4x4x1
+- Position: (0, 1, 0) to (3, 1, 1)
+- Tips: Build oak_planks on top of the foundation.
+- Description: Encloses the space to form the main structure.
+```
+
+#### Step 3: Roof
+```plaintext
+Structure Information:
+- Structure: Roof
+- Material: brick_block
+- Number of Materials: 16
+- Dimension: 4x4x1
+- Position: (0, 2, 0) to (3, 2, 1)
+- Tips: Place brick_blocks on top of the walls.
+- Description: Adds the sloped roof to the house.
+```
+
+#### Step 4: Door
+```plaintext
+Structure Information:
+- Structure: Door
+- Material: oak_planks
+- Number of Materials: 9
+- Dimension: 3x3x1
+- Position: (1, 1, 0) to (1, 1, 1)
+- Tips: Place oak_planks in a 3x3 square.
+- Description: Provides access to the house.
+```
+
+#### Step 5: Window
+```plaintext
+Structure Information:
+- Structure: Window
+- Material: glass_pane
+- Number of Materials: 9
+- Dimension: 3x3x1
+- Position: (2, 1, 0) to (2, 1, 1)
+- Tips: Place glass_panes in a 3x3 square.
+- Description: Allows light to enter the house.
+```
+
+#### Step 6: Porch
+```plaintext
+Structure Information:
+- Structure: Porch
+- Material: oak_planks
+- Number of Materials: 12
+- Dimension: 3x4x1
+- Position: (0, 1, 2) to (2, 1, 2)
+- Tips: Place oak_planks in a 3x4 rectangle.
+- Description: Extends the front of the house.
+```
+
+This structured reconstruction information should enable anyone to accurately rebuild the house described in the image.

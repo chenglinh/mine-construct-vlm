@@ -1,0 +1,118 @@
+### **Detailed Building Description**
+
+The building in the image is a compact, cube-shaped structure with a simple yet functional design. It appears to be a small house or shed, constructed using two primary materials: **cobblestone** for the main body and **oak planks** for the roof. The structure includes a door and a window, adding to its functionality. Here’s a breakdown of the visible components:
+
+1. **Main Body**: Constructed from cobblestone, forming the walls and foundation of the building.
+2. **Roof**: Made of oak planks, with a slightly sloped design.
+3. **Door**: Positioned on one of the walls, made of oak door blocks.
+4. **Window**: A glass pane window, framed by cobblestone, located on the side opposite the door.
+5. **Foundation**: The base of the structure is flush with the ground, suggesting no additional foundation blocks are used.
+
+### **Structured Reconstruction Information**
+
+Below is the step-by-step guide to reconstruct the building, broken down into distinct components:
+
+---
+
+#### **Structure Information: Main Body**
+- **Structure**: Main Body (Cobblestone Walls)
+- **Material**:
+  - Cobblestone
+- **Number of Materials**:
+  - Cobblestone: 64 blocks
+- **Dimension**:
+  - Width: 4 blocks
+  - Height: 4 blocks
+  - Depth: 4 blocks
+- **Position**:
+  - Starting Position: (0, 0, 0)
+  - Extent: (0, 0, 0) to (4, 4, 4)
+- **Tips**:
+  - Ensure all walls are perfectly aligned and flush with each other.
+  - Leave a 2-block gap on one side for the door and a 1-block gap on the opposite side for the window.
+- **Description**:
+  - The main body forms the core of the structure, providing the walls and foundation.
+
+---
+
+#### **Structure Information: Door**
+- **Structure**: Door (Oak Door)
+- **Material**:
+  - Oak Door
+- **Number of Materials**:
+  - Oak Door: 1 (2 blocks tall)
+- **Dimension**:
+  - Width: 1 block
+  - Height: 2 blocks
+  - Depth: 1 block
+- **Position**:
+  - Starting Position: (3, 1, 2)
+  - Extent: (3, 1, 2) to (3, 2, 2)
+- **Tips**:
+  - Place the door on the side of the building where the 2-block gap was left in the main body.
+  - Ensure the door is aligned vertically with the ground level.
+- **Description**:
+  - The door provides access to the interior of the building.
+
+---
+
+#### **Structure Information: Window**
+- **Structure**: Window (Glass Pane with Cobblestone Frame)
+- **Material**:
+  - Glass Pane
+  - Cobblestone
+- **Number of Materials**:
+  - Glass Pane: 4 blocks
+  - Cobblestone: 8 blocks
+- **Dimension**:
+  - Width: 2 blocks
+  - Height: 2 blocks
+  - Depth: 1 block
+- **Position**:
+  - Starting Position: (1, 1, 2)
+  - Extent: (1, 1, 2) to (2, 2, 2)
+- **Tips**:
+  - Place the window on the side of the building opposite the door.
+  - Use cobblestone to frame the glass panes, ensuring a clean and sturdy structure.
+- **Description**:
+  - The window allows light into the interior and adds aesthetic detail to the building.
+
+---
+
+#### **Structure Information: Roof**
+- **Structure**: Roof (Oak Planks)
+- **Material**:
+  - Oak Planks
+- **Number of Materials**:
+  - Oak Planks: 16 blocks
+- **Dimension**:
+  - Width: 4 blocks
+  - Height: 1 block
+  - Depth: 4 blocks
+- **Position**:
+  - Starting Position: (0, 4, 0)
+  - Extent: (0, 4, 0) to (4, 4, 4)
+- **Tips**:
+  - Place the oak planks on top of the main body, covering the entire surface.
+  - Ensure the roof is level and flush with the edges of the walls.
+- **Description**:
+  - The roof completes the structure, providing a simple yet effective covering.
+
+---
+
+### **Final Notes**
+- **Overall Dimensions**: The entire structure is 4 blocks wide, 4 blocks tall, and 4 blocks deep.
+- **Character Scale**: The structure is approximately 2 times the height of a typical Minecraft character (2 blocks tall), making it a comfortable size for a small house or shed.
+- **Placement**: The building is centered at (0, 0, 0) in the coordinate system, with all components aligned to ensure symmetry and stability.
+
+By following the above steps, you can accurately reconstruct the building as seen in the image. 
+
+**Final Answer:**
+\boxed{
+\begin{aligned}
+&\text{1. Main Body: Cobblestone (64 blocks, 4x4x4)} \\
+&\text{2. Door: Oak Door (1, at (3, 1, 2))} \\
+&\text{3. Window: Glass Pane (4) + Cobblestone (8), at (1, 1, 2)} \\
+&\text{4. Roof: Oak Planks (16, at (0, 4, 0))} \\
+\end{aligned}
+}

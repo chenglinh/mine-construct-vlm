@@ -1,0 +1,51 @@
+### Detailed Building Description
+
+The building consists of three main components: a foundation, a wall, and a roof. The foundation is constructed from stone blocks, the wall is made of brick blocks, and the roof is composed of oak planks.
+
+*   **Foundation:**
+    *   Material: stone
+    *   Number of Materials: 4
+    *   Dimensions: 2x2x1 (width x depth x height)
+    *   Position: Starting at (0, -1, 0)
+*   **Wall:**
+    *   Material: brick_block
+    *   Number of Materials: 6
+    *   Dimensions: 2x2x3 (width x depth x height)
+    *   Position: Starting at (0, 0, 1) and extending 2 blocks to the right and up
+*   **Roof:**
+    *   Material: oak_planks
+    *   Number of Materials: 4
+    *   Dimensions: 2x2x1 (width x depth x height)
+    *   Position: Starting at (0, 2, 3) and extending 2 blocks to the right and up
+
+### Structured Reconstruction Information
+
+#### Step 1: Build the Foundation
+
+*   Structure: Foundation
+*   Material: stone
+*   Number of Materials: 4
+*   Dimension: 2x2x1 (width x depth x height)
+*   Position: Starting at (0, -1, 0)
+*   Tips: Place the foundation blocks at the starting position, ensuring they are aligned with the ground.
+*   Description: The foundation provides a solid base for the building.
+
+#### Step 2: Build the Wall
+
+*   Structure: Wall
+*   Material: brick_block
+*   Number of Materials: 6
+*   Dimension: 2x2x3 (width x depth x height)
+*   Position: Starting at (0, 0, 1) and extending 2 blocks to the right and up
+*   Tips: Place the wall blocks on top of the foundation, ensuring they are aligned with each other.
+*   Description: The wall provides structure and support for the building.
+
+#### Step 3: Build the Roof
+
+*   Structure: Roof
+*   Material: oak_planks
+*   Number of Materials: 4
+*   Dimension: 2x2x1 (width x depth x height)
+*   Position: Starting at (0, 2, 3) and extending 2 blocks to the right and up
+*   Tips: Place the roof blocks on top of the wall, ensuring they are aligned with each other.
+*   Description: The roof provides a protective covering for the building.<|eot_id|>

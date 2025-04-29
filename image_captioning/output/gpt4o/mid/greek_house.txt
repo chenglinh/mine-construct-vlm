@@ -1,0 +1,124 @@
+1. Detailed Building Description
+	1.	Overall Shape and Size
+	•	A classical, rectangular “temple” structure with quartz_block columns and walls.
+	•	A low-pitched roof made of red_sandstone slabs (stepped in full blocks here for simplicity).
+	•	Dimensions: approximately 9 blocks wide (x), 7 blocks deep (z), and 6 blocks tall (y) from the ground to the apex of the roof.
+	2.	Foundation / Base
+	•	A raised quartz_block platform (1 block tall) that extends slightly beyond the walls on all sides.
+	•	A small step or two at the front entrance.
+	3.	Columns and Walls
+	•	The front façade features four evenly spaced columns of quartz_block, each 3 blocks tall, supporting a horizontal entablature (lintel) at the top.
+	•	Behind the columns are walls enclosing a simple interior space (about 7×5 on the inside).
+	4.	Roof
+	•	Made of red_sandstone blocks, with a stepped slope from left to right (or front to back), creating a shallow gable.
+	•	Overhangs by 1 block on each side for a classic temple look.
+	5.	Approximate Block Counts
+	•	Quartz_block: ~120 total (foundation, columns, walls, and horizontal beams)
+	•	Red_sandstone: ~40 total (roof)
+
+(Exact counts may vary depending on interior details or any decorative steps at the entrance.)
+
+⸻
+
+2. Structured Reconstruction Information
+
+Below are four logical steps (or components) to guide the build from the ground up.
+
+⸻
+
+Component 1: Quartz_Block Foundation
+
+Structure Information
+	•	Structure: Rectangular Base Platform
+	•	Material:
+	    •	quartz_block
+	•	Number of Materials:
+	    •	~35 quartz_block
+	•	Dimension:
+	    •	9 blocks wide (x), 7 blocks deep (z), 1 block tall (y = 0 to y = 1)
+	•	Position:
+	    •	Center the footprint so x ranges from -4 to +4, and z from -3 to +3, if desired.
+	    •	The top surface ends at y = 1.
+	•	Tips:
+	    1.	You can make a small 2-block-wide “step” at the front (centered on the x-axis) by extending the foundation forward an extra block or two.
+	    2.	Ensure the edges extend 1 block around what will become the walls, so the foundation is slightly larger than the enclosed interior.
+	•	Description:
+	    •	This raised platform provides the temple’s base, giving it a grander, elevated look. A short front step or landing leads to where the door will be placed.
+
+⸻
+
+Component 2: Front Columns
+
+Structure Information
+	•	Structure: Four Aligned Quartz_Block Columns
+	•	Material:
+	    •	quartz_block
+	•	Number of Materials:
+	    •	~24 quartz_block (4 columns × 3 blocks tall + top crossbeam)
+	•	Dimension:
+	    •	Each column is 1×1 in footprint, 3 blocks tall (y = 1 to y = 4).
+	    •	Spaced evenly across the front (9-wide base).
+	•	Position:
+	    •	Place the first column at the left edge of the platform’s front, the last at the right edge, and two evenly spaced in between.
+	    •	All columns stand on top of the foundation (starting y = 1) and end at y = 4.
+	•	Tips:
+	    1.	After building each column 3 blocks high, connect them at the top with a row of quartz_block (the entablature or horizontal beam).
+	    2.	Leave at least 2 or 3 blocks of space between the columns for symmetry.
+	•	Description:
+	    •	These columns form the hallmark of a Greek-inspired temple façade, supporting the roof’s front edge. A horizontal lintel ties them together at y = 4.
+
+⸻
+
+Component 3: Main Walls and Interior
+
+Structure Information
+	•	Structure: Quartz_Block Walls Enclosing a Rectangular Interior
+	•	Material:
+	    •	quartz_block
+	•	Number of Materials:
+	    •	~60 quartz_block
+	•	Dimension:
+	    •	Outer walls occupy a 7×5 interior area behind the columns (plus 1-block-thick walls).
+	    •	Built from y = 1 (foundation) up to y = 4 (top).
+	•	Position:
+	    •	Align the walls so they begin just behind the front columns, with a 1-block gap from the foundation edges on the left/right/back sides.
+	    •	The top of the walls meets y = 4, same as the column lintel.
+	•	Tips:
+	    1.	Add a centered doorway on the front wall, between the middle two columns.
+	    2.	You can leave the interior hollow or add subdividing walls for a small room.
+	    3.	If you want decorative corners, you can thicken them with extra quartz_block.
+	•	Description:
+	    •	This step encloses the building’s main room. The walls match the columns’ height so the roof can rest neatly on top.
+
+⸻
+
+Component 4: Red_Sandstone Roof
+
+Structure Information
+	•	Structure: Shallow Gabled Roof
+	•	Material:
+	    •	red_sandstone
+	•	Number of Materials:
+	    •	~40 red_sandstone blocks
+	•	Dimension:
+	    •	Overhang ~9 blocks wide (matching the foundation), 7 blocks deep.
+	    •	Height adds up to ~2 more blocks, peaking around y = 6.
+	•	Position:
+	    •	The lowest roof row sits at y = 4 (on top of the walls and columns).
+	    •	Each row steps inward/upward by 1 block until you reach the top row (y = 6).
+	•	Tips:
+	    1.	Overhang the roof edges by 1 block on all sides for a classic temple look.
+	    2.	If you prefer a gentler slope, keep it to two or three “steps” total.
+	    3.	Make sure the front and back eaves line up horizontally for symmetry.
+	•	Description:
+	    •	The red_sandstone roof contrasts with the white quartz walls, giving the structure a bright, Mediterranean-inspired appearance. The stepped “layered” design is reminiscent of terracotta roof tiles.
+
+⸻
+
+Assembly Order Recap
+	1.	Foundation: Build the 9×7 quartz_block base at y=0 → y=1, adding a small front step.
+	2.	Front Columns: Place four 3-block-tall columns on top of the foundation at the front edge; connect them with a horizontal beam at y=4.
+	3.	Walls and Interior: Fill in the rectangular walls behind the columns, up to y=4. Include a doorway if desired.
+	4.	Roof: Layer red_sandstone from y=4 to y=6 in a stepped fashion, ensuring a slight overhang on all sides.
+
+By following these steps, you can recreate this Greek temple–inspired structure entirely from quartz_block and red_sandstone, without reference to any background blocks.

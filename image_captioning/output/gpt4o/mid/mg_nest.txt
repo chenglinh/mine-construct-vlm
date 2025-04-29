@@ -1,0 +1,85 @@
+1. Detailed Building Description
+	1.	Overall Shape and Size
+	•	The structure forms a squat, rounded bunker or shelter.
+	•	Its footprint is roughly 7 blocks wide (x), 9 blocks deep (z), and it stands about 5 blocks tall (y) at its peak.
+	•	A 2-block-wide and 2-block-tall entrance is centered on the front face.
+	2.	Materials
+	•	stone for the corner “ribs” or accent blocks.
+	•	cobblestone for the main arched layers making up most of the roof and walls.
+	3.	Approximate Layout
+	•	The lowest layer is 7×9 in outline, with stone corners or edges and cobblestone filling in.
+	•	Subsequent layers above become progressively narrower (stepping inward one block on each side) to form the arch.
+	•	At the front (z=0), an opening is left for the entrance.
+	4.	Approximate Block Counts
+	•	stone: ~40 blocks (accent corners, side ribs, and highlights)
+	•	cobblestone: ~80 blocks (main arch layers and fill)
+	•	(Exact counts may vary slightly based on how you decorate the interior or shape the rear.)
+
+⸻
+
+2. Structured Reconstruction Information
+
+Below are two main components, each built in sequence from the ground up.
+
+⸻
+
+Component 1: Foundation & Lower Walls
+
+Structure Information
+	•	Structure: Stone Corners with Cobblestone Infill (Layer 1)
+	•	Material:
+	    •	stone
+	    •	cobblestone
+	•	Number of Materials (Approx.):
+	    •	stone: ~20
+	    •	cobblestone: ~30
+	•	Dimension:
+	    •	Covers a 7×9 area (x by z), from y=0 to y=1 (1 block high).
+	•	Position:
+	    •	Center on (0,0,0) so that x ranges ~-3 to +3, z ranges ~0 to +8 (if you want the entrance at z=0).
+	    •	The top of this layer is at y=1.
+	•	Tips:
+	    1.	Outline the perimeter in stone, especially at the four corners and front edges.
+	    2.	Fill the interior footprint with cobblestone.
+	    3.	Leave a 2-wide gap at the front edge (z=0) for the doorway (from y=0 to y=2, once higher layers are added).
+	•	Description:
+	    •	This base forms a stout rectangular pad. The corner stone blocks and front opening begin to define the bunker’s shape.
+
+⸻
+
+Component 2: Arched Roof & Upper Layers
+
+Structure Information
+	•	Structure: Tiers of Cobblestone with Stone Accents
+	•	Material:
+	    •	stone
+	    •	cobblestone
+	•	Number of Materials (Approx.):
+	    •	stone: ~20
+	    •	cobblestone: ~50
+	•	Dimension:
+	    •	Extends from y=1 up to ~y=5 at the apex.
+	    •	Each layer is 1 block high, stepping in ~1 block on each side as you go up, forming a curved profile.
+	•	Position:
+	    •	Build directly on top of the foundation.
+	    •	The final topmost row sits at y=4 → y=5.
+	•	Tips:
+	    1.	For layer 2 (just above the foundation), place a ring of cobblestone about 5×7 with stone corners or “ribs” at the edges.
+	    2.	For layer 3, reduce to ~3×5, again with stone corners or highlights.
+	    3.	Continue narrowing each layer until you form a small top row (perhaps 1×3 or 1×1, depending on the desired arch shape).
+	    4.	Keep the front entrance open by not filling the blocks directly above the 2-wide gap for the doorway.
+	•	Description:
+	    •	These stacked, progressively smaller layers create a half-dome or bunker roof. The stone highlights on each layer form ribs or ridges, enhancing the curved silhouette.
+
+⸻
+
+Putting It All Together
+	1.	Foundation & Lower Walls (Component 1):
+	•	Lay a 7×9 rectangular layer at ground level using stone corners and cobblestone fill.
+	•	Reserve a 2-wide entrance in the front.
+	2.	Arched Roof & Upper Layers (Component 2):
+	•	Build multiple tiers of cobblestone, stepping in each layer as you go up.
+	•	Add stone blocks at the edges or corners of each layer for a ribbed effect.
+	•	Maintain a clear 2×2 entrance at the front.
+
+When finished, you’ll have a squat, stone-and-cobblestone bunker with a distinctive arched profile—perfect as a small shelter or decorative structure.

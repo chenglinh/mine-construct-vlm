@@ -1,0 +1,58 @@
+**Detailed Building Description**
+
+The building consists of the following components:
+
+*   **Foundation**: A layer of stone blocks (stone) forming the base of the structure.
+    *   Dimensions: 4x4 blocks
+    *   Position: (-4, -2, -4) to (4, -2, -4)
+*   **Walls**: Two layers of cobblestone blocks (cobblestone) on either side of the foundation.
+    *   Dimensions: 4x4 blocks
+    *   Position: (-4, -1, -4) to (4, -1, -4) and (-4, 0, -4) to (4, 0, -4)
+*   **Roof**: A layer of oak planks (oak_planks) on top of the walls.
+    *   Dimensions: 4x4 blocks
+    *   Position: (-4, 1, -4) to (4, 1, -4)
+*   **Doorway**: A single block of glass pane (glass_pane) serving as the entrance.
+    *   Dimensions: 1x1 block
+    *   Position: (-2, 0, -2)
+
+**Structured Reconstruction Information**
+
+**Step 1: Build the Foundation**
+
+*   Structure: Foundation
+*   Material: stone
+*   Number of Materials: 16
+*   Dimension: 4x4 blocks
+*   Position: (-4, -2, -4) to (4, -2, -4)
+*   Tips: Ensure the foundation is level and even.
+*   Description: The foundation provides a stable base for the building.
+
+**Step 2: Construct the Walls**
+
+*   Structure: Walls
+*   Material: cobblestone
+*   Number of Materials: 32
+*   Dimension: 4x4 blocks
+*   Position: (-4, -1, -4) to (4, -1, -4) and (-4, 0, -4) to (4, 0, -4)
+*   Tips: Align the walls with the foundation and ensure they are evenly spaced.
+*   Description: The walls provide structural support and define the building's shape.
+
+**Step 3: Add the Roof**
+
+*   Structure: Roof
+*   Material: oak_planks
+*   Number of Materials: 16
+*   Dimension: 4x4 blocks
+*   Position: (-4, 1, -4) to (4, 1, -4)
+*   Tips: Ensure the roof is level and securely attached to the walls.
+*   Description: The roof provides protection from the elements and adds a finished look to the building.
+
+**Step 4: Create the Doorway**
+
+*   Structure: Doorway
+*   Material: glass_pane
+*   Number of Materials: 1
+*   Dimension: 1x1 block
+*   Position: (-2, 0, -2)
+*   Tips: Place the doorway in a convenient location, such as near the center of the building.
+*   Description: The doorway serves as the entrance to the building.<|eot_id|>

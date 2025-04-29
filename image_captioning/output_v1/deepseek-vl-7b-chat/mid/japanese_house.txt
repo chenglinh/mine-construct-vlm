@@ -1,0 +1,20 @@
+Structure Information:
+- Structure: House
+- Material: Stone, Wood
+- Number of Materials:
+	- Stone: 100
+	- Wood: 20
+- Dimension:
+	- Length: 4 blocks
+	- Width: 3 blocks
+	- Height: 2 blocks
+- Position:
+	- x: 0
+	- y: 0
+	- z: 0
+- Tips:
+	- The house is built on a stone foundation.
+	- The wooden door and window frames are placed in the center of the house.
+	- The roof is made of stone and wood, with the wooden part being the same as the door and window frames.
+- Description:
+	The house is a simple, two-story structure with a stone foundation and wooden door and window frames. The roof is made of stone and wood, with the wooden part being the same as the door and window frames. The house is built on a flat surface, and the door and window frames are centered in the house.

@@ -1,0 +1,44 @@
+Structure Information:
+- Structure: Cobblestone Wall
+- Material: Cobblestone
+- Number of Materials: 1
+- Dimension: 6 blocks wide, 2 blocks high, and 6 blocks deep
+- Position: Starting at (0, 0, 0), extending horizontally to the right
+- Tips: The wall is built with a single layer of cobblestone blocks, creating a solid barrier.
+- Description: This cobblestone wall serves as the foundation and primary structural element of the building.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 6 blocks wide, 2 blocks high, and 6 blocks deep
+- Position: Starting at the end of the cobblestone wall, extending horizontally to the right
+- Tips: The stone wall is built with a single layer of stone blocks, providing additional support and height to the structure.
+- Description: This stone wall is an extension of the cobblestone wall, creating a sturdy base for the building.
+
+Structure Information:
+- Structure: Stone Roof
+- Material: Stone Bricks
+- Number of Materials: 1
+- Dimension: 6 blocks wide, 2 blocks high, and 6 blocks deep
+- Position: Starting at the end of the stone wall, extending horizontally to the right
+- Tips: The stone roof is built with a single layer of stone bricks, providing a durable and weather-resistant covering for the building.
+- Description: This stone roof is the final layer of the building, providing protection from the elements and completing the structure.
+
+Structure Information:
+- Structure: Oak Door
+- Material: Oak Planks
+- Number of Materials: 1
+- Dimension: 2 blocks wide, 2 blocks high, and 2 blocks deep
+- Position: Located in the center of the stone roof, approximately 2 blocks from the front edge
+- Tips: The oak door is built with a single layer of oak planks, providing a sturdy and secure entryway.
+- Description: This oak door is the main entrance to the building, made from durable oak planks for long-lasting use.
+
+Structure Information:
+- Structure: Oak Windows
+- Material: Oak Planks
+- Number of Materials: 2
+- Dimension: 2 blocks wide, 2 blocks high, and 2 blocks deep (each window)
+- Position: Located on the stone roof, approximately 2 blocks from the front edge, spaced evenly apart
+- Tips: The oak windows are built with a single layer of oak planks, providing natural light and ventilation to the interior.
+- Description: These oak windows are symmetrically placed on the stone roof, allowing for light to enter the building and offering a view of the surroundings.

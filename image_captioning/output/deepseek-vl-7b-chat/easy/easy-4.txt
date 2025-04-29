@@ -1,0 +1,281 @@
+Structure Information:
+- Structure: Cobblestone Wall
+- Material: Cobblestone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built in a staggered pattern, with each row of cobblestone blocks offset from the previous row.
+- Description: The cobblestone wall serves as the foundation for the building, providing a sturdy base.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The stone wall is built directly on top of the cobblestone wall, creating a solid base for the building.
+- Description: The stone wall provides a sturdy and durable exterior for the building.
+
+Structure Information:
+- Structure: Oak Plank Roof
+- Material: Oak Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof is built with oak planks, providing a natural and aesthetically pleasing finish.
+- Description: The oak plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements and adds a touch of elegance to the building.
+
+Structure Information:
+- Structure: Stone Plank Base
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The base of the building is constructed with stone planks, providing a solid foundation.
+- Description: The stone plank base ensures stability and durability for the building.
+
+Structure Information:
+- Structure: Stone Plank Floor
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The floor of the building is made of stone planks, providing a smooth and stable surface.
+- Description: The stone plank floor offers a durable and comfortable surface for the building's interior.
+
+Structure Information:
+- Structure: Stone Plank Wall
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The walls of the building are constructed with stone planks, providing a sturdy and attractive exterior.
+- Description: The stone plank walls offer a natural and rustic look for the building.
+
+Structure Information:
+- Structure: Stone Plank Roof
+- Material: Stone Planks
+- Number of Materials: 12
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0
+- Tips: The roof of the building is made of stone planks, providing a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements:
+- Structure Information: Cobblestone roof offers a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements: Cobblestone roof offers a durable and aesthetically pleasing finish.
+- Description: The stone plank roof offers protection from the elements: Cobblestone roof offers a durable and aesthetically pleasing finish.

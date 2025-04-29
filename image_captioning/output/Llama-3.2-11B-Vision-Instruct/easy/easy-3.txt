@@ -1,0 +1,41 @@
+### Detailed Building Description
+
+The building is composed of three main components: the foundation, the wall, and the roof.
+
+*   **Foundation**: The foundation is constructed using stone blocks. It measures 5 blocks in width, 5 blocks in length, and 1 block in height, positioned at (0, -1, 0) in the xyz coordinate system.
+*   **Wall**: The wall is built using cobblestone blocks. It spans 5 blocks in width and 5 blocks in length, with a height of 5 blocks. The wall is situated above the foundation, starting at (0, 0, 0) and extending to (5, 5, 5).
+*   **Roof**: The roof is composed of oak planks. It covers the top of the wall, measuring 5 blocks in width and 5 blocks in length, with a height of 1 block. The roof begins at (0, 5, 5) and ends at (5, 5, 6).
+
+### Structured Reconstruction Information
+
+**Structure 1: Foundation**
+
+*   **Structure:** Foundation
+*   **Material:** stone
+*   **Number of Materials:** 25
+*   **Dimension:** 5x5x1
+*   **Position:** (0, -1, 0)
+*   **Tips:** Ensure the foundation is level and secure.
+*   **Description:** The foundation provides a solid base for the structure.
+
+**Structure 2: Wall**
+
+*   **Structure:** Wall
+*   **Material:** cobblestone
+*   **Number of Materials:** 125
+*   **Dimension:** 5x5x5
+*   **Position:** (0, 0, 0) to (5, 5, 5)
+*   **Tips:** Maintain even spacing between blocks for stability.
+*   **Description:** The wall offers structural support and protection.
+
+**Structure 3: Roof**
+
+*   **Structure:** Roof
+*   **Material:** oak planks
+*   **Number of Materials:** 25
+*   **Dimension:** 5x5x1
+*   **Position:** (0, 5, 5) to (5, 5, 6)
+*   **Tips:** Ensure a smooth surface for the roof.
+*   **Description:** The roof provides a protective covering for the structure.
+
+This structured reconstruction information enables the accurate rebuilding of the Minecraft building without relying on the original image.<|eot_id|>

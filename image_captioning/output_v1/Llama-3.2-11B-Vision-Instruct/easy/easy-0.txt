@@ -1,0 +1,29 @@
+**Detailed Building Description**
+
+The building consists of a single component: a square-shaped structure with a flat top and straight sides. The structure is constructed using stone bricks.
+
+*   **Foundation**: The foundation is a 5x5 block square with its center at (0, 0, 0).
+*   **Walls**: The walls are 2 blocks tall and made of stone bricks. They extend from the foundation, forming a square shape with each side measuring 5 blocks long.
+*   **Roof**: The roof is a flat surface that covers the top of the walls. It is also made of stone bricks and measures 5x5 blocks.
+
+**Structured Reconstruction Information**
+
+**Structure Information: Wall**
+
+*   **Structure**: Wall
+*   **Material**: Stone Bricks
+*   **Number of Materials**: 40 (10 blocks per side)
+*   **Dimension**: 5x5x2 blocks (length x width x height)
+*   **Position**: Starting position: (0, 0, 0); Spatial extent: -2.5 to 2.5 blocks in the x and z directions, -1 to 1 block in the y direction
+*   **Tips**: Ensure the wall is aligned with the foundation and the roof is centered on top of the walls.
+*   **Description**: The wall provides structural support and defines the boundaries of the building.
+
+**Structure Information: Roof**
+
+*   **Structure**: Roof
+*   **Material**: Stone Bricks
+*   **Number of Materials**: 25 (5x5 blocks)
+*   **Dimension**: 5x5x1 block (length x width x height)
+*   **Position**: Starting position: (0, 1, 0); Spatial extent: -2.5 to 2.5 blocks in the x and z directions, 0 to 1 block in the y direction
+*   **Tips**: Place the roof directly on top of the walls, ensuring it is centered and even.
+*   **Description**: The roof provides protection from the elements and adds aesthetic appeal to the building.<|eot_id|>

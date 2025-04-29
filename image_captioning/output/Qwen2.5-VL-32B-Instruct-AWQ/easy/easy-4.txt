@@ -1,0 +1,114 @@
+### Detailed Building Description
+
+The Minecraft structure in the image is a simple, multi-layered tower-like building. It consists of three distinct segments:
+1. **Base Layer**: Constructed from stone bricks, forming the foundation and lower walls.
+2. **Middle Layer**: Built with sandstone, forming the upper walls and a flat roof.
+3. **Top Layer**: A pyramid-like structure made of sandstone, serving as a decorative or functional element on top of the building.
+
+The structure is symmetrical and appears to be designed for aesthetic purposes, possibly as a monument or decorative tower. The dimensions and materials are consistent with the typical block scale in Minecraft, where a character is 2 blocks tall.
+
+### Structured Reconstruction Information
+
+#### **Step 1: Base Layer (Stone Bricks)**
+Structure Information:
+- **Structure**: Base Layer
+- **Material**: stone_bricks
+- **Number of Materials**: 54 stone_bricks
+- **Dimension**: 6 × 4 × 6 (Width × Height × Depth)
+- **Position**: Start at (0, 0, 0) and extend to (6, 4, 6).
+- **Tips**: Ensure the base is perfectly flat and level. Use a flat grass block surface as the foundation.
+- **Description**: The base layer provides a sturdy foundation for the entire structure, made entirely of stone bricks for a classic, durable look.
+
+#### **Step 2: Middle Layer (Sandstone Walls and Roof)**
+Structure Information:
+- **Structure**: Middle Layer
+- **Material**: sandstone
+- **Number of Materials**: 66 sandstone
+- **Dimension**: 6 × 4 × 6 (Width × Height × Depth)
+- **Position**: Start at (0, 4, 0) and extend to (6, 8, 6). This layer is built directly on top of the base layer.
+- **Tips**: Align the sandstone blocks perfectly with the stone brick base to maintain symmetry. Ensure the top surface is flat to support the pyramid structure.
+- **Description**: The middle layer consists of sandstone walls and a flat roof, providing a contrasting color to the base layer and setting the stage for the decorative top structure.
+
+#### **Step 3: Top Layer (Sandstone Pyramid)**
+Structure Information:
+- **Structure**: Top Layer (Pyramid)
+- **Material**: sandstone
+- **Number of Materials**: 20 sandstone
+- **Dimension**: 3 × 3 × 3 (Width × Height × Depth) for the base of the pyramid, tapering to a single block at the top.
+- **Position**: Start at (1.5, 8, 1.5) relative to the center of the middle layer and extend upwards.
+- **Tips**: Center the pyramid precisely on top of the middle layer. Use a step-by-step approach to build the pyramid, reducing the width and depth by one block on each level as you go up.
+- **Description**: The top layer is a decorative sandstone pyramid, adding height and visual interest to the structure. It serves as the focal point of the design.
+
+### Final Output
+
+Here is the complete, self-contained guide for reconstructing the building:
+
+---
+
+#### **Step 1: Base Layer (Stone Bricks)**
+Structure Information:
+- **Structure**: Base Layer
+- **Material**: stone_bricks
+- **Number of Materials**: 54 stone_bricks
+- **Dimension**: 6 × 4 × 6
+- **Position**: Start at (0, 0, 0) and extend to (6, 4, 6).
+- **Tips**: Ensure the base is perfectly flat and level.
+- **Description**: Forms the sturdy foundation of the structure.
+
+#### **Step 2: Middle Layer (Sandstone Walls and Roof)**
+Structure Information:
+- **Structure**: Middle Layer
+- **Material**: sandstone
+- **Number of Materials**: 66 sandstone
+- **Dimension**: 6 × 4 × 6
+- **Position**: Start at (0, 4, 0) and extend to (6, 8, 6).
+- **Tips**: Align sandstone blocks with the stone brick base and ensure the top surface is flat.
+- **Description**: Adds height and a contrasting color to the structure, serving as a platform for the pyramid.
+
+#### **Step 3: Top Layer (Sandstone Pyramid)**
+Structure Information:
+- **Structure**: Top Layer (Pyramid)
+- **Material**: sandstone
+- **Number of Materials**: 20 sandstone
+- **Dimension**: 3 × 3 × 3 (tapering to a single block at the top)
+- **Position**: Start at (1.5, 8, 1.5) and extend upwards.
+- **Tips**: Center the pyramid precisely and build it step-by-step, reducing the width and depth by one block on each level.
+- **Description**: The decorative pyramid crowns the structure, adding visual interest and height.
+
+---
+
+### Final Answer:
+**Reconstruction Steps:**
+1. **Base Layer**: Build a 6 × 4 × 6 structure using 54 stone_bricks, starting at (0, 0, 0).
+2. **Middle Layer**: Build a 6 × 4 × 6 structure using 66 sandstone, starting at (0, 4, 0) on top of the base layer.
+3. **Top Layer**: Build a pyramid using 20 sandstone, starting at (1.5, 8, 1.5) on top of the middle layer.
+
+**Final Output Box:**
+```
+Structure Information:
+    - Structure: Base Layer
+    - Material: stone_bricks
+    - Number of Materials: 54 stone_bricks
+    - Dimension: 6 × 4 × 6
+    - Position: (0, 0, 0) to (6, 4, 6)
+    - Tips: Ensure the base is flat and level.
+    - Description: Forms the foundation.
+
+Structure Information:
+    - Structure: Middle Layer
+    - Material: sandstone
+    - Number of Materials: 66 sandstone
+    - Dimension: 6 × 4 × 6
+    - Position: (0, 4, 0) to (6, 8, 6)
+    - Tips: Align with the base and ensure the top is flat.
+    - Description: Adds height and a contrasting color.
+
+Structure Information:
+    - Structure: Top Layer (Pyramid)
+    - Material: sandstone
+    - Number of Materials: 20 sandstone
+    - Dimension: 3 × 3 × 3 (tapering to a single block)
+    - Position: (1.5, 8, 1.5) upwards
+    - Tips: Center the pyramid and build step-by-step.
+    - Description: Decorative pyramid crowns the structure.
+```

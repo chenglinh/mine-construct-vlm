@@ -1,0 +1,71 @@
+Structure Information:
+- Structure: House
+- Material: Stone, Wood
+- Number of Materials:
+	- Stone: 100
+	- Wood: 20
+- Dimension:
+	- Length: 4 blocks
+	- Width: 3 blocks
+	- Height: 2 blocks
+- Position:
+	- x: 0
+	- y: 0
+	- z: 0
+- Tips:
+	- The house is built on a stone foundation.
+	- The wooden door and window frames are placed on the stone walls.
+	- The chimney is constructed on the roof.
+- Description:
+	The house is a simple, two-story structure with a stone foundation and wooden door and window frames. The roof is made of wooden planks, and a chimney is built on the roof. The house is situated in the center of the coordinate system.
+
+Structure Information:
+- Structure: Chimney
+- Material: Stone
+- Number of Materials: 10
+- Dimension:
+	- Length: 1 block
+	- Width: 1 block
+	- Height: 2 blocks
+- Position:
+	- x: 0
+	- y: 0
+	- z: 0
+- Tips:
+	- The chimney is built on the roof of the house.
+- Description:
+	The chimney is a simple, two-story structure made of stone. It is built on the roof of the house, and its height is twice the height of the house.
+
+Structure Information:
+- Structure: Door
+- Material: Wood
+- Number of Materials: 10
+- Dimension:
+	- Length: 1 block
+	- Width: 1 block
+	- Height: 2 blocks
+- Position:
+	- x: 0
+	- y: 0
+	- z: 0
+- Tips:
+	- The door is made of wooden planks.
+- Description:
+	The door is a simple, two-story structure made of wooden planks. It is built on the front of the house, and its height is twice the height of the house.
+
+Structure Information:
+- Structure: Window
+- Material: Wood
+- Number of Materials: 10
+- Dimension:
+	- Length: 1 block
+	- Width: 1 block
+	- Height: 2 blocks
+- Position:
+	- x: 0
+	- y: 0
+	- z: 0
+- Tips:
+	- The window is made of wooden planks.
+- Description:
+	The window is a simple, two-story structure made of wooden planks. It is built on the side of the house, and its height is twice the height of the house.

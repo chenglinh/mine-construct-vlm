@@ -1,0 +1,37 @@
+Detailed Building Description
+This structure is a small, box-shaped enclosure made entirely of stone_bricks. It forms a hollow square “ring” that is taller than a Minecraft character (2 blocks). Specifically:
+	•	Outer Dimensions: 5 blocks wide (x-axis) × 4 blocks tall (y-axis) × 5 blocks deep (z-axis)
+	•	Inner Hollow Space: 3×3 blocks (open to the ground and open at the top)
+	•	Total Block Count: 64 stone_bricks (16 per layer × 4 layers)
+
+It sits at ground level (y = 0) with no separate floor or roof. The walls are one block thick. Because it has an odd-numbered width (5×5), you can center its interior around the origin (0,0,0) if desired.
+
+⸻
+
+Structured Reconstruction Information
+
+Since the structure consists of a single rectangular ring (the walls), only one distinct component is needed. However, note that you will stack four identical layers to reach the full height.
+
+⸻
+
+1. Stone Bricks Enclosure (Walls)
+
+Structure Information
+	•	Structure: Stone Bricks Enclosure (4 Layers)
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: 64 blocks total
+	•	Dimension:
+	    •	Each horizontal layer is 5×5 blocks on the outside, enclosing a 3×3 hollow space.
+	    •	The walls are 4 blocks high, so the total dimension is 5 (width) × 4 (height) × 5 (depth).
+	•	Position:
+	    •	Start at y = 0.
+	    •	For a neatly centered build, place the enclosure so that the hollow interior spans from x = -1 to x = +1 and z = -1 to z = +1, with the walls occupying x or z = -2 and +2.
+	    •	The top of the final layer will be at y = 4.
+	•	Tips:
+	    1.	Lay down the first layer (5×5 ring) at ground level, making sure to leave the center 3×3 empty. This requires 16 stone_bricks.
+	    2.	Stack each subsequent layer exactly above the previous, aligning the blocks so the walls remain vertical. Each new layer also requires 16 stone_bricks.
+	    3.	After placing all four layers, you will have a hollow 3×3 interior open at both the top and bottom.
+	•	Description:
+	    •	This single structure forms the walls of a compact enclosure, four blocks tall, suitable as a small fort-like perimeter or the beginnings of a tower. The one-block-thick walls surround a 3×3 open space, allowing for customization of the interior or addition of a separate roof/floor later.

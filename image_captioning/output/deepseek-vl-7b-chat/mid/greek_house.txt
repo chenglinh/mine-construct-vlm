@@ -1,0 +1,62 @@
+Structure Information:
+- Structure: Entrance Hall
+- Material: oak_planks
+- Number of Materials: 6
+- Dimension: 6 blocks wide by 4 blocks deep
+- Position: (0, 0, 0)
+- Tips: The entrance hall is the main entrance to the building, so it should be built first.
+- Description: The entrance hall is a simple, open space with oak_planks on the floor and walls. It serves as the main entryway to the building.
+
+Structure Information:
+- Structure: Columns
+- Material: stone
+- Number of Materials: 12
+- Dimension: 2 blocks wide by 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The columns should be placed evenly around the entrance hall to support the roof.
+- Description: The columns are made of stone and provide structural support for the building.
+
+Structure Information:
+- Structure: Roof
+- Material: stone_bricks
+- Number of Materials: 12
+- Dimension: 12 blocks wide by 4 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof should be built on top of the columns and entrance hall.
+- Description: The roof is made of stone_bricks and covers the entire building, providing protection from the elements.
+
+Structure Information:
+- Structure: Windows
+- Material: glass_pane
+- Number of Materials: 6
+- Dimension: 2 blocks wide by 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The windows should be placed evenly around the building for natural light.
+- Description: The windows are made of glass_pane and allow light to enter the building.
+
+Structure Information:
+- Structure: Side Walls
+- Material: stone
+- Number of Materials: 12
+- Dimension: 6 blocks wide by 4 blocks deep
+- Position: (0, 0, 0)
+- Tips: The side walls should be built on top of the columns and entrance hall.
+- Description: The side walls are made of stone and provide additional support and protection for the building.
+
+Structure Information:
+- Structure: Back Wall
+- Material: stone
+- Number of Materials: 12
+- Dimension: 6 blocks wide by 4 blocks deep
+- Position: (0, 0, 0)
+- Tips: The back wall should be built on top of the side walls and columns.
+- Description: The back wall is made of stone and completes the structure of the building.
+
+Structure Information:
+- Structure: Front Door
+- Material: oak_planks
+- Number of Materials: 4
+- Dimension: 2 blocks wide by 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The front door should be built on top of the entrance hall.
+- Description: The front door is made of oak_planks and provides access to the building.

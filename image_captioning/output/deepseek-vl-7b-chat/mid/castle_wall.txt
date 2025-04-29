@@ -1,0 +1,188 @@
+Structure Information:
+- Structure: Cobblestone Wall
+- Material: Cobblestone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The cobblestone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 12 blocks wide, 12 blocks high, and 6 blocks deep (relative to the xyz coordinate system)
+- Position: Starting at (0, 0, 0) and extending horizontally to (12, 0, 6)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: The stone wall is a simple, single-layer structure with a consistent pattern of stone blocks. It serves as a barrier or boundary in the game.

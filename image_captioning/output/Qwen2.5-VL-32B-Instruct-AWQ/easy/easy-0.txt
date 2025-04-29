@@ -1,0 +1,42 @@
+### Detailed Building Description
+
+The image shows a simple rectangular structure made entirely of cobblestone blocks. The structure is a raised platform or foundation, forming a square frame with an open center. The height of the structure is 2 blocks, which is consistent with the height of a typical Minecraft character. The structure is positioned on a flat grassy surface, and the background is irrelevant to the building itself.
+
+### Structured Reconstruction Information
+
+#### Step 1: Cobblestone Foundation
+This step involves constructing the base layer of the cobblestone structure.
+
+**Structure Information:**
+- **Structure:** Cobblestone Foundation
+- **Material:** `cobblestone`
+- **Number of Materials:**
+  - `cobblestone`: 32 blocks
+- **Dimension:** 8 × 2 × 8 blocks (Width × Height × Depth)
+- **Position:** The structure is centered around the origin (0, 0, 0) in the xyz coordinate system. The bottom-left corner of the foundation starts at approximately (-4, 0, -4), and the top-right corner is at (4, 2, 4).
+- **Tips:** Ensure that the cobblestone blocks are placed in a perfect square shape, with all sides being equal in length. The structure should be level and aligned with the ground.
+- **Description:** This component forms the base and outer walls of the structure, providing a stable and enclosed foundation.
+
+### Final Output
+
+Here is the complete, self-contained guide for reconstructing the building:
+
+---
+
+#### Step 1: Cobblestone Foundation
+**Structure Information:**
+- **Structure:** Cobblestone Foundation
+- **Material:** `cobblestone`
+- **Number of Materials:**
+  - `cobblestone`: 32 blocks
+- **Dimension:** 8 × 2 × 8 blocks (Width × Height × Depth)
+- **Position:** The structure is centered around the origin (0, 0, 0). The bottom-left corner of the foundation starts at approximately (-4, 0, -4), and the top-right corner is at (4, 2, 4).
+- **Tips:** 
+  - Place the cobblestone blocks in a perfect square shape.
+  - Ensure that the structure is level and aligned with the ground.
+  - The height of the structure should be exactly 2 blocks to match the height of a typical Minecraft character.
+- **Description:** This component forms the base and outer walls of the structure, providing a stable and enclosed foundation.
+
+---
+
+This guide ensures that the building can be reconstructed accurately without access to the original image. The structure is simple yet complete, focusing solely on the visible cobblestone components.

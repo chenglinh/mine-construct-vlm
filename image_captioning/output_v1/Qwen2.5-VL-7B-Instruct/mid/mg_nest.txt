@@ -1,0 +1,31 @@
+### Detailed Building Description
+
+The building appears to be a simple, rectangular structure made primarily of cobblestone blocks. It has a flat top and a small entrance at the front. The structure seems to be a basic shelter or a small storage area.
+
+- **Material:** Cobblestone
+- **Dimensions:** Approximately 5 blocks wide, 3 blocks tall, and 3 blocks deep.
+- **Position:** Centered around the origin (0, 0, 0) in the xy-plane, with the y-axis pointing upwards.
+- **Tips:** Ensure the cobblestone blocks are placed evenly to maintain the structure's integrity.
+- **Description:** This is a basic cobblestone structure, likely intended for shelter or storage purposes.
+
+### Structured Reconstruction Information
+
+#### Structure Information:
+- **Structure:** Main Cobblestone Structure
+- **Material:** Cobblestone
+- **Number of Materials:** 45 cobblestone blocks
+- **Dimension:** 5 blocks wide × 3 blocks tall × 3 blocks deep
+- **Position:** (0, 0, 0) to (5, 3, 3)
+- **Tips:** Place the cobblestone blocks in a grid pattern to form the walls and roof.
+- **Description:** This is the main body of the structure, providing a solid framework for the building.
+
+#### Structure Information:
+- **Structure:** Entrance
+- **Material:** Cobblestone
+- **Number of Materials:** 9 cobblestone blocks
+- **Dimension:** 3 blocks wide × 1 block tall × 1 block deep
+- **Position:** (2, 1, 1) to (4, 2, 2)
+- **Tips:** Place the cobblestone blocks to create a rectangular opening.
+- **Description:** This is the entrance to the main cobblestone structure.
+
+By following these steps, you can accurately reconstruct the Minecraft building described in the image.

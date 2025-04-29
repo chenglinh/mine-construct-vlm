@@ -1,0 +1,89 @@
+Detailed Building Description
+
+This building has two main segments:
+	1.	A stone_bricks base:
+	•	Shaped as a solid 5×5 square prism, 4 blocks tall (from y=0 to y=4).
+	•	Composed entirely of stone_bricks.
+	•	This creates a sturdy, box-like foundation.
+	2.	A stepped wooden roof made of oak_planks:
+	•	Four tiers stacked on top of each other, each one block tall, forming a small pyramid.
+	•	The bottom tier (directly above the stone_bricks) is 5×5, then 3×3, then 2×2, and finally 1×1 at the very top.
+	•	Overall, it adds 4 additional blocks of height (from y=4 to y=8).
+
+Overall Dimensions
+	•	Footprint: 5 blocks along x, 5 blocks along z.
+	•	Total Height: 8 blocks (4 for the stone_bricks base + 4 for the stacked wooden tiers).
+	•	Materials Used:
+	•	stone_bricks for the base.
+	•	oak_planks for all visible wooden portions (treating any logs/variations as oak_planks).
+	•	Approximate Total Block Count: 139
+	•	Base: 5 × 5 × 4 = 100 stone_bricks
+	•	Roof: 25 (5×5) + 9 (3×3) + 4 (2×2) + 1 (1×1) = 39 oak_planks
+
+Positioned so that the center of the 5×5 footprint aligns around (0, 0, 0), the x and z coordinates can extend from -2 to +2, with y=0 as ground level.
+
+⸻
+
+Structured Reconstruction Information
+
+Below are two distinct components (the stone_bricks base and the oak_planks roof) to guide step-by-step building.
+
+⸻
+
+1. Stone Bricks Base
+
+Structure Information
+	•	Structure: Solid Stone Bricks Base
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: 100 blocks (5×5×4)
+	•	Dimension:
+	    •	Width (x): 5 blocks
+	    •	Height (y): 4 blocks
+	    •	Depth (z): 5 blocks
+	    •	From y=0 (ground) up to y=4
+	•	Position:
+	    •	Center the base so x and z range from -2 to +2.
+	    •	The bottom layer is at y=0, and the top of this base finishes at y=4.
+	•	Tips:
+	    1.	Build the first 5×5 layer of stone_bricks at ground level (y=0).
+	    2.	Repeat for a total of 4 layers stacked directly on top of each other (y=1, y=2, y=3, y=4).
+	    3.	Ensure each 5×5 layer is fully filled—this base is solid rather than hollow.
+	•	Description:
+	    •	This forms a compact, sturdy block of stone_bricks serving as the foundation or main body of the structure. The flat top at y=4 provides a level surface for the roof.
+
+⸻
+
+2. Stepped Wooden Roof
+
+Structure Information
+	•	Structure: Four-Tier Oak Planks Roof
+	•	Material:
+	    •	oak_planks
+	•	Number of Materials:
+	    •	oak_planks: 39 total
+	    •	Bottom tier: 25 (5×5)
+	    •	Second tier: 9 (3×3)
+	    •	Third tier: 4 (2×2)
+	    •	Top tier: 1 (1×1)
+	•	Dimension:
+	    •	Overall footprint of 5×5 at the lowest tier, shrinking up to a single block at the very top.
+	    •	Height: 4 blocks (from y=4 to y=8).
+	•	Position:
+	    •	First (lowest) tier rests on top of the stone_bricks at y=4, extending up to y=5.
+	    •	Place each successive, smaller tier at the next integer y-level:
+	    •	Second tier at y=5 → y=6
+	    •	Third tier at y=6 → y=7
+	    •	Final top tier at y=7 → y=8
+	•	Tips:
+	    1.	Align the first (5×5) wooden tier exactly with the edges of the stone_bricks base.
+	    2.	Center the second (3×3) tier so that it is surrounded evenly by the tier below.
+	    3.	Repeat with the third (2×2) tier, and finally place a single block on top as the fourth tier.
+	    4.	Each tier is one block tall, creating a stepped “pyramid” profile when viewed from the side.
+	•	Description:
+	    •	The roof adds a visually appealing, graduated shape on top of the boxy stone_bricks base. Each layer recedes inward, culminating in a single oak_planks block at the peak (y=8). This stepwise design can be further customized or decorated.
+
+⸻
+
+By following these two construction steps—first the Stone Bricks Base, then the Stepped Wooden Roof—you can fully recreate the building without ever seeing the original image. The design is simple yet visually distinct, suitable as a small, tiered structure or the foundation for an even grander build.

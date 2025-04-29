@@ -1,0 +1,53 @@
+Structure Information:
+- Structure: Stone Wall
+- Material: stone
+- Number of Materials: 6
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks.
+- Description: A simple stone wall with a height of 2 blocks.
+
+Structure Information:
+- Structure: Stone Platform
+- Material: stone
+- Number of Materials: 4
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The platform is built with a single layer of stone blocks.
+- Description: A flat stone platform with a height of 2 blocks.
+
+Structure Information:
+- Structure: Stone Wall with Stone Platform
+- Material: stone, stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks, and the platform is built on top of the wall.
+- Description: A stone wall with a stone platform built on top of it.
+
+Structure Information:
+- Structure: Stone Wall with Stone Platform and Stone Steps
+- Material: stone, stone
+- Number of Materials: 14
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks, the platform is built on top of the wall, and the steps are built on top of the platform.
+- Description: A stone wall with a stone platform and stone steps built on top of it.
+
+Structure Information:
+- Structure: Stone Wall with Stone Platform and Stone Steps with Stone Roof
+- Material: stone, stone, stone
+- Number of Materials: 20
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks, the platform is built on top of the wall, the steps are built on top of the platform, and the roof is built on top of the steps.
+- Description: A stone wall with a stone platform, stone steps, and a stone roof built on top of it.
+
+Structure Information:
+- Structure: Stone Wall with Stone Platform, Stone Steps, Stone Roof, and Stone Window
+- Material: stone, stone, stone, stone
+- Number of Materials: 28
+- Dimension: 2 blocks high, 3 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks, the platform is built on top of the wall, the steps are built on top of the platform, the roof is built on top of the steps, and the window is built on top of the roof.
+- Description: A stone wall with a stone platform, stone steps, stone roof, and stone window built on top of it.

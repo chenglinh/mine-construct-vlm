@@ -1,0 +1,89 @@
+Structure Information:
+- Structure: Stone Wall
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 1 block wide, and 1 block deep
+- Position: (0, 0, 0)
+- Tips: The wall is built in a single layer, with each block placed directly on top of the previous one.
+- Description: This stone wall serves as the foundation for the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Platform
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The platform is built on top of the stone wall, with each block placed directly on top of the previous one.
+- Description: This stone platform provides a flat surface for the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Tower
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The tower is built on top of the stone platform, with each block placed directly on top of the previous one.
+- Description: This stone tower serves as the main structure of the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Roof
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof is built on top of the stone tower, with each block placed directly on top of the previous one.
+- Description: This stone roof provides a protective covering for the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Chimney
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney is built on top of the stone roof, with each block placed directly on top of the previous one.
+- Description: This stone chimney allows for smoke to escape from the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Fireplace
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The fireplace is built on top of the stone chimney, with each block placed directly on top of the previous one.
+- Description: This stone fireplace serves as the focal point of the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Windows
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The windows are built on top of the stone fireplace, with each block placed directly on top of the previous one.
+- Description: These stone windows allow for natural light to enter the building and are constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Door
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The door is built on top of the stone windows, with each block placed directly on top of the previous one.
+- Description: This stone door provides access to the building and is constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Stairs
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The stairs are built on top of the stone door, with each block placed directly on top of the previous one.
+- Description: These stone stairs provide access to the upper level of the building and are constructed with evenly spaced stone blocks.
+
+Structure Information:
+- Structure: Stone Roof Extension
+- Material: Stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, and 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof extension is built on top of the stone stairs, with each block placed directly on top of the previous one.
+- Description: This stone roof extension provides additional space on the upper level of the building and is constructed with evenly spaced stone blocks.

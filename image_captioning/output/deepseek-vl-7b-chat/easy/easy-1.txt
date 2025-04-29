@@ -1,0 +1,80 @@
+Structure Information:
+- Structure: Cobblestone Wall
+- Material: cobblestone
+- Number of Materials: 1
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The wall is built in a square shape, with each side having 3 blocks.
+- Description: The cobblestone wall is a simple, sturdy structure that can be used as a foundation or a standalone feature in a Minecraft landscape.
+
+Structure Information:
+- Structure: Stone Wall
+- Material: stone
+- Number of Materials: 1
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The wall is built in a square shape, with each side having 3 blocks.
+- Description: The stone wall is a common building material in Minecraft, providing a durable and aesthetically pleasing option for constructing walls.
+
+Structure Information:
+- Structure: Stone Platform
+- Material: stone
+- Number of Materials: 1
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The platform is built in a square shape, with each side having 3 blocks.
+- Description: The stone platform can be used as a base for other structures or as a standalone feature in a Minecraft landscape.
+
+Structure Information:
+- Structure: Stone Stairs
+- Material: stone
+- Number of Materials: 2
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The stairs are built in a zigzag pattern, with each step having 1 block of height.
+- Description: Stone stairs are a practical and visually appealing way to connect different levels in a Minecraft building.
+
+Structure Information:
+- Structure: Stone Fence
+- Material: stone
+- Number of Materials: 1
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The fence is built in a square shape, with each side having 3 blocks.
+- Description: Stone fences are a common way to mark boundaries or create enclosures in Minecraft landscapes.
+
+Structure Information:
+- Structure: Stone Door
+- Material: stone
+- Number of Materials: 1
+- Dimension: 2 blocks high, 2 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The door is built in a square shape, with each side having 2 blocks.
+- Description: Stone doors are a practical and durable option for creating entrances or exits in Minecraft buildings.
+
+Structure Information:
+- Structure: Stone Window
+- Material: stone
+- Number of Materials: 1
+- Dimension: 2 blocks high, 2 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The window is built in a square shape, with each side having 2 blocks.
+- Description: Stone windows are a common way to allow light into Minecraft buildings and can be used for decorative purposes.
+
+Structure Information:
+- Structure: Stone Roof
+- Material: stone
+- Number of Materials: 1
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The roof is built in a square shape, with each side having 3 blocks.
+- Description: Stone roofs are a practical and durable option for covering the top of Minecraft buildings.
+
+Structure Information:
+- Structure: Stone Staircase
+- Material: stone
+- Number of Materials: 2
+- Dimension: 3 blocks high, 3 blocks wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The staircase is built in a zigzag pattern, with each step having 1 block of height.
+- Description: Stone staircases are a practical and visually appealing way to connect different levels in a Minecraft building.

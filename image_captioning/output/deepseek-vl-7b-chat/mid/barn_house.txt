@@ -1,0 +1,305 @@
+Structure Information:
+- Structure: Stone Wall
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 1 block wide, 1 block deep
+- Position: (0, 0, 0)
+- Tips: The wall is built with a single layer of stone blocks.
+- Description: The stone wall serves as the foundation and primary structure of the building.
+
+Structure Information:
+- Structure: Stone Platform
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The platform is built with a single layer of stone blocks.
+- Description: The stone platform provides a base for the building and supports the stone wall.
+
+Structure Information:
+- Structure: Stone Stairs
+- Material: stone
+- Number of Materials: 4
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The stairs are built with a single layer of stone blocks.
+- Description: The stone stairs connect the platform to the main structure of the building.
+
+Structure Information:
+- Structure: Stone Chimney
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney is built with a single layer of stone blocks.
+- Description: The stone chimney is an essential component for ventilation and smoke extraction.
+
+Structure Information:
+- Structure: Stone Roof
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof is built with a single layer of stone blocks.
+- Description: The stone roof provides shelter and protection from the elements.
+
+Structure Information:
+- Structure: Stone Door
+- Material: oak_planks
+- Number of Materials: 4
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The door is built with a single layer of oak_planks.
+- Description: The oak_planks door provides access to the building.
+
+Structure Information:
+- Structure: Stone Windows
+- Material: oak_planks
+- Number of Materials: 4
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The windows are built with a single layer of oak_planks.
+- Description: The oak_planks windows allow natural light to enter the building.
+
+Structure Information:
+- Structure: Stone Fireplace
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The fireplace is built with a single layer of stone blocks.
+- Description: The stone fireplace is a functional and decorative feature of the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Roof Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The roof extension is built with a single layer of stone blocks.
+- Description: The roof extension provides additional shelter and protection.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.
+
+Structure Information:
+- Structure: Stone Chimney Extension
+- Material: stone
+- Number of Materials: 10
+- Dimension: 2 blocks high, 2 blocks wide, 2 blocks deep
+- Position: (0, 0, 0)
+- Tips: The chimney extension is built with a single layer of stone blocks.
+- Description: The chimney extension helps to draw smoke away from the building.

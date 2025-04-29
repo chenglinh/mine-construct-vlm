@@ -1,0 +1,88 @@
+Detailed Building Description
+
+This compact house-like structure is composed primarily of stone_bricks for its lower walls and oak_planks for a stepped roof. It also has an oak_door in front and a small, open window alcove on one side (no glass).
+	1.	Stone Bricks Base
+	•	A 5×5 footprint, standing 4 blocks tall (from y=0 to y=4).
+	•	Walls are 1 block thick, forming a (hollow) 3×3 interior.
+	•	Includes a one-block-wide, two-block-tall opening for a window on one side, and a doorway (two blocks tall) on the front face.
+	2.	Stepped Wooden Roof
+	•	Sits on top of the stone_bricks base (starting at y=4).
+	•	Consists of three tiers of oak_planks, each 1 block high:
+	1.	Bottom Tier (5×5) at y=4 → y=5
+	2.	Middle Tier (3×3) at y=5 → y=6
+	3.	Top Tier (1×1) at y=6 → y=7
+
+Overall, the build spans 5 blocks along the x-axis, 5 blocks along the z-axis, and 7 blocks in height (ground at y=0 up to y=7 at the roof’s peak).
+
+Approximate Block Counts
+	•	Stone Bricks: ~60 total (accounting for the hollow interior, the door opening, and the window alcove)
+	•	Oak Planks (Roof): 35 total (5×5 = 25, plus 3×3 = 9, plus 1×1 = 1)
+	•	Oak Door: 1 door item (covering a 2-block-tall space)
+
+⸻
+
+Structured Reconstruction Information
+
+Below are two main components for step-by-step building:
+	1.	The Stone Bricks Base (including door and window)
+	2.	The Stepped Wooden Roof
+
+⸻
+
+1. Stone Bricks Base (Walls, Door, Window)
+
+Structure Information
+	•	Structure: Stone Bricks Base (4 layers) with Door and Window
+	•	Material:
+	    •	stone_bricks
+	    •	(plus 1 oak_door item, though “oak_door” is not in the provided block list, it is visibly part of the structure)
+	•	Number of Materials (Approx.):
+	    •	stone_bricks: 60 blocks
+	    •	oak_door: 1 (2-block-tall door)
+	•	Dimension:
+	    •	5 blocks wide (x), 4 blocks tall (y), 5 blocks deep (z)
+	    •	Hollow interior (3×3)
+	•	Position:
+	    •	Place the base so its outer edges go from x = -2 to x = +2 and z = -2 to z = +2, with y=0 as ground.
+	    •	Build 4 consecutive layers of stone_bricks, ending at y=4.
+	    •	Center the door on one face at ground level (two blocks tall, from y=0 to y=2).
+	    •	Carve a 1-wide, 2-tall opening on a side wall for the “window.”
+	•	Tips:
+	    1.	First, create a ring of 16 stone_bricks for each layer (5×5 outer minus 3×3 hole). Stack 4 layers.
+	    2.	Leave two block spaces in the front wall for the door. Once the wall blocks are placed, add the door, which occupies those two vertical spaces.
+	    3.	On a side wall, remove (or leave unbuilt) a 1×2 section for the window.
+	    4.	Make sure the interior remains open (3×3) for decoration or further expansion.
+	•	Description:
+	    •	A sturdy stone_bricks enclosure 4 blocks high with a front entrance and a simple open window alcove. This forms the main “house” portion and foundation for the roof.
+
+⸻
+
+2. Stepped Wooden Roof
+
+Structure Information
+	•	Structure: Three-Tier Oak Planks Roof
+	•	Material:
+	    •	oak_planks
+	•	Number of Materials:
+	    •	oak_planks: 35 blocks total
+	    •	Bottom Tier: 25 (5×5)
+	    •	Middle Tier: 9 (3×3)
+	    •	Top Tier: 1 (1×1)
+	•	Dimension:
+	    •	Covers the same 5×5 footprint as the stone_bricks base.
+	    •	Extends from y=4 (top of the walls) up to y=7 (peak of the roof).
+	•	Position:
+	    •	Bottom Tier (5×5) sits on top of the walls from y=4 to y=5.
+	    •	Middle Tier (3×3) is centered above the bottom tier, from y=5 to y=6.
+	    •	Top Tier (1×1) is placed at the center of the middle tier, from y=6 to y=7.
+	•	Tips:
+	    1.	After completing the stone_bricks walls, lay down a full 5×5 layer of oak_planks at y=4.
+	    2.	Center the next 3×3 layer so that there is a 1-block overhang on all sides.
+	    3.	Place a single oak_planks block at the very center on top (y=6 → y=7).
+	    4.	This creates a simple, stepped “pyramid” look from each side.
+	•	Description:
+	    •	The roof’s layered tiers add a decorative finish. The lowest tier caps the walls, the middle tier reduces the footprint, and the single top block creates a small peak, giving the house a traditional, stepped-roof aesthetic.
+
+⸻
+
+By completing the Stone Bricks Base first (including the door and window), then constructing the Stepped Wooden Roof, you can accurately recreate this small, functional Minecraft house without seeing the original image.

@@ -1,0 +1,57 @@
+**Detailed Building Description**
+
+The building is composed of three main components: the base, the walls, and the roof.
+
+*   **Base**
+    *   Material: Stone
+    *   Number of Materials: 4 blocks
+    *   Dimensions: 2 blocks wide, 2 blocks long, 1 block high
+    *   Position: Starting at (0, 0, 0)
+    *   Tips: Place the base at the origin of the coordinate system.
+    *   Description: The base provides a foundation for the building.
+*   **Walls**
+    *   Material: Cobblestone
+    *   Number of Materials: 8 blocks
+    *   Dimensions: 2 blocks wide, 2 blocks long, 2 blocks high
+    *   Position: Starting at (0, 1, 0) and extending 2 blocks up from the base
+    *   Tips: Place the walls directly above the base, ensuring they are centered.
+    *   Description: The walls provide structural support and define the building's shape.
+*   **Roof**
+    *   Material: Oak Planks
+    *   Number of Materials: 4 blocks
+    *   Dimensions: 2 blocks wide, 2 blocks long, 1 block high
+    *   Position: Starting at (0, 3, 0) and extending 1 block above the walls
+    *   Tips: Place the roof directly above the walls, ensuring it is centered and flush with the top of the walls.
+    *   Description: The roof provides a flat surface and completes the building's structure.
+
+**Structured Reconstruction Information**
+
+**Step 1: Base**
+
+*   Structure: Base
+*   Material: Stone
+*   Number of Materials: 4 blocks
+*   Dimension: 2 blocks wide, 2 blocks long, 1 block high
+*   Position: Starting at (0, 0, 0)
+*   Tips: Place the base at the origin of the coordinate system.
+*   Description: The base provides a foundation for the building.
+
+**Step 2: Walls**
+
+*   Structure: Walls
+*   Material: Cobblestone
+*   Number of Materials: 8 blocks
+*   Dimension: 2 blocks wide, 2 blocks long, 2 blocks high
+*   Position: Starting at (0, 1, 0) and extending 2 blocks up from the base
+*   Tips: Place the walls directly above the base, ensuring they are centered.
+*   Description: The walls provide structural support and define the building's shape.
+
+**Step 3: Roof**
+
+*   Structure: Roof
+*   Material: Oak Planks
+*   Number of Materials: 4 blocks
+*   Dimension: 2 blocks wide, 2 blocks long, 1 block high
+*   Position: Starting at (0, 3, 0) and extending 1 block above the walls
+*   Tips: Place the roof directly above the walls, ensuring it is centered and flush with the top of the walls.
+*   Description: The roof provides a flat surface and completes the building's structure.<|eot_id|>

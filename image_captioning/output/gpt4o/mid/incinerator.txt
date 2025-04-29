@@ -1,0 +1,121 @@
+1. Detailed Building Description
+	1.	Overall Shape and Dimensions
+	•	The build is a multi-tiered, cylindrical (or polygonal) structure made of stone_bricks, tapering slightly as it rises.
+	•	At the very top is a nether_bricks chimney that vents smoke.
+	•	Approximate Footprint: ~11 blocks wide (x) × ~11 blocks deep (z).
+	•	Overall Height: ~13 blocks tall (y=0 at the ground up to y=13 at the chimney’s top).
+	2.	Tiered Stone Bricks Body
+	•	Lower Tier (Base): The widest part, from y=0 to ~y=3. It features vertical buttresses or ridges for added detail.
+	•	Middle Tier: Steps inward 1 block around the edges, continues upward from y=3 to y=7.
+	•	Upper Tier (Dome Cap): Steps inward again, extending from y=7 to ~y=10. Topped with a small circular/hexagonal opening where the chimney sits.
+	3.	Nether Bricks Chimney
+	•	A short, cylindrical (3×3) tube of nether_bricks that rises from about y=10 to y=13, where smoke is emitted.
+	•	Contrasts visually with the lighter stone_bricks body.
+	4.	Approximate Block Counts
+	•	stone_bricks: ~500 total (spread across three stacked tiers with decorative ridges)
+	•	nether_bricks: ~25 total (chimney)
+
+Note: Exact numbers depend on how you shape the dome’s curved edges or decorative pillars. The estimates suffice for a faithful exterior reconstruction.
+
+⸻
+
+2. Structured Reconstruction Information
+
+Below are four logical components (foundation/lower tier, middle tier, upper tier, and chimney). Build each in sequence from the ground upward.
+
+⸻
+
+Component 1: Lower Tier (Stone Bricks Base)
+
+Structure Information
+	•	Structure: Wide Cylindrical/Polygonal Base
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials (Approx.):
+	    •	stone_bricks: ~180
+	•	Dimension:
+	    •	~11 blocks wide (x), ~11 blocks deep (z), 3 blocks tall (y=0 to y=3).
+	    •	Shape can be circular or an 8–12-sided polygon.
+	•	Position:
+	    •	Center at (0,0). Build outward so the radius or half-width is about 5 blocks from the center.
+	    •	The top of this tier finishes around y=3.
+	•	Tips:
+	    1.	Create a circular or multi-angled outline (11-block diameter). Fill in or shape the interior as desired.
+	    2.	Add vertical strips (buttresses) every few blocks for a ridged appearance, if matching the reference design.
+	•	Description:
+	    •	This forms the heavy, fortified base. The ridged or columnar design gives a sturdy, industrial look.
+
+⸻
+
+Component 2: Middle Tier (Stone Bricks)
+
+Structure Information
+	•	Structure: Slightly Narrowed Second Level
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials (Approx.):
+	    •	stone_bricks: ~200
+	•	Dimension:
+	    •	Steps inward 1 block from the lower tier’s edge.
+	    •	Extends from y=3 to y=7 (4 blocks tall).
+	•	Position:
+	    •	Start immediately above the lower tier (y=3).
+	    •	Inward offset means an ~9×9 overall outline if the base was ~11×11.
+	•	Tips:
+	    1.	Maintain a matching polygon or circular shape, ensuring a cohesive taper.
+	    2.	Continue vertical detailing or columns to align with the tier below.
+	•	Description:
+	    •	The body of the structure, continuing the dome-like taper. Leaves enough internal space (if hollow) for a large furnace or decorative interior.
+
+⸻
+
+Component 3: Upper Tier (Stone Bricks Dome Cap)
+
+Structure Information
+	•	Structure: Topmost Stone Bricks Dome/Cap
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials (Approx.):
+	    •	stone_bricks: ~120
+	•	Dimension:
+	    •	Narrows again by 1 block around the perimeter, from ~9×9 to ~7×7.
+	    •	Rises from y=7 to about y=10 (3 blocks tall), with a small opening or flat area at the top center.
+	•	Position:
+	    •	Built directly on top of the middle tier at y=7.
+	    •	Finishes around y=10, leaving a central 3×3 or similar space for the chimney.
+	•	Tips:
+	    1.	Slope or round the edges slightly, or step them in layers for a dome-like shape.
+	    2.	Ensure the top has a 3×3 opening (or at least a suitable space) to place the chimney in the next step.
+	•	Description:
+	    •	Concludes the main stone_bricks structure, forming a domed top with an opening for the chimney. The shape is reminiscent of a furnace or incinerator housing.
+
+⸻
+
+Component 4: Nether Bricks Chimney
+
+Structure Information
+	•	Structure: Narrow Vertical Chimney
+	•	Material:
+	    •	nether_bricks
+	•	Number of Materials (Approx.):
+	    •	nether_bricks: ~25
+	•	Dimension:
+	    •	3×3 footprint, ~3 blocks tall, from y=10 to ~y=13.
+	•	Position:
+	    •	Centered atop the upper tier’s opening, aligned with (0,0).
+	    •	Rises above the dome.
+	•	Tips:
+	    1.	Make sure the 3×3 nether_bricks column lines up with the hole left in the dome.
+	    2.	You can add finishing details or a slight lip at the chimney’s top for style.
+	•	Description:
+	    •	A dark, heat-resistant shaft that vents smoke from the incinerator below. The nether_bricks contrast sharply with the stone_bricks dome.
+
+⸻
+
+Final Assembly
+	1.	Build the Lower Tier on the ground (y=0 → y=3).
+	2.	Stack the Middle Tier above it (y=3 → y=7), stepping in by 1 block around the perimeter.
+	3.	Add the Upper Tier (y=7 → y=10), stepping in again and leaving a 3×3 gap at the very top center.
+	4.	Construct the Nether Bricks Chimney (y=10 → y=13) in that gap, completing the furnace/incinerator look.
+
+Following these steps, you will recreate the tiered stone_bricks incinerator with a nether_bricks chimney—all without referencing the background or additional blocks.

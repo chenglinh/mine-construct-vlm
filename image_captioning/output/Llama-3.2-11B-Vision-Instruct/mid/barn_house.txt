@@ -1,0 +1,61 @@
+### Detailed Building Description
+
+The building is a small, two-story structure with a sloping roof. It is constructed using a combination of stone and brick blocks.
+
+*   **Foundation:** The foundation of the building is made up of stone blocks, forming a square base with a width of 6 blocks and a height of 1 block.
+*   **Walls:** The walls of the building are constructed using a combination of stone and brick blocks. The walls are 4 blocks tall and 6 blocks wide.
+*   **Roof:** The roof of the building is made up of brick blocks, forming a sloping surface that covers the top of the walls. The roof is 2 blocks tall and 6 blocks wide.
+*   **Doorway:** The doorway is located on the front of the building, centered between the two walls. It is made up of a single stone block and is 1 block wide and 1 block tall.
+*   **Window:** There is a single window located on the side of the building, 2 blocks above the doorway. It is made up of a single glass pane block and is 1 block wide and 1 block tall.
+
+### Structured Reconstruction Information
+
+**Structure 1: Foundation**
+
+*   **Structure:** Foundation
+*   **Material:** Stone
+*   **Number of Materials:** 24
+*   **Dimension:** 6x6x1
+*   **Position:** Starting at (0, -1, 0)
+*   **Tips:** Make sure to place the foundation blocks in a square shape to ensure the building is stable.
+*   **Description:** The foundation provides a solid base for the building.
+
+**Structure 2: Walls**
+
+*   **Structure:** Walls
+*   **Material:** Stone and Brick
+*   **Number of Materials:** 48
+*   **Dimension:** 6x4x1
+*   **Position:** Starting at (0, 0, 0), above the foundation
+*   **Tips:** Make sure to alternate between stone and brick blocks to create a visually appealing pattern.
+*   **Description:** The walls provide support and structure to the building.
+
+**Structure 3: Roof**
+
+*   **Structure:** Roof
+*   **Material:** Brick
+*   **Number of Materials:** 24
+*   **Dimension:** 6x2x1
+*   **Position:** Starting at (0, 2, 0), above the walls
+*   **Tips:** Make sure to place the roof blocks at an angle to create a sloping surface.
+*   **Description:** The roof provides protection from the elements and adds a decorative touch to the building.
+
+**Structure 4: Doorway**
+
+*   **Structure:** Doorway
+*   **Material:** Stone
+*   **Number of Materials:** 1
+*   **Dimension:** 1x1x1
+*   **Position:** Starting at (3, 1, 0), centered between the walls
+*   **Tips:** Make sure to place the doorway block in the center of the wall.
+*   **Description:** The doorway provides access to the interior of the building.
+
+**Structure 5: Window**
+
+*   **Structure:** Window
+*   **Material:** Glass Pane
+*   **Number of Materials:** 1
+*   **Dimension:** 1x1x1
+*   **Position:** Starting at (4, 3, 0), 2 blocks above the doorway
+*   **Tips:** Make sure to place the window block above the doorway.
+*   **Description:** The window allows natural light to enter the building and provides a view of the surrounding area.<|eot_id|>

@@ -1,0 +1,69 @@
+Detailed Building Description
+This structure is a compact, box-like building composed of stone_bricks for its walls (bottom four layers) and oak_planks for the top layer. The footprint is 5×5 blocks, and the total height is 5 blocks (4 blocks of stone_bricks + 1 block of oak_planks on top). Although the top appears to use logs in a ring and a different wood for the center, only oak_planks are listed among the allowed wood blocks—so we will treat all visible wood as “oak_planks.”
+
+Below the wooden top, the stone_bricks portion is likely hollow inside (3×3 interior) and open at both the bottom and top. You can place a floor inside or leave it empty. The wooden layer forms a flat 5×5 “roof.”
+	•	Approximate Footprint: 5 (width) × 5 (depth)
+	•	Overall Height: 5 blocks
+	•	Materials: stone_bricks (for the base walls) and oak_planks (for the roof)
+	•	Total Block Count: 64 stone_bricks (4 layers of a 5×5 ring with a 3×3 hollow) + 25 oak_planks (5×5 roof) = 89 blocks
+
+Because the footprint is 5×5 (an odd dimension), you can align it so that the center of the building is at (0, 0, 0).
+
+⸻
+
+Structured Reconstruction Information
+
+This build can be naturally split into two main components:
+	1.	The Stone Bricks Base (4 layers)
+	2.	The Wooden Top Layer (1 layer)
+
+⸻
+
+1. Stone Bricks Base (Walls)
+
+Structure Information
+	•	Structure: Stone Bricks Base (4 hollow layers)
+	•	Material:
+	    •	stone_bricks
+	•	Number of Materials:
+	    •	stone_bricks: 64 total
+	•	Dimension:
+	    •	Each layer has an outer dimension of 5×5 blocks with a 3×3 hollow interior.
+	    •	Height of the base is 4 blocks (y = 0 through y = 4).
+	•	Position:
+	    •	Start at ground level, y = 0.
+	    •	For a perfectly centered build at (0, 0, 0), let the interior extend from x = -1 to x = +1 and z = -1 to z = +1, with the walls at x or z = -2 and +2.
+	    •	The top of this section finishes at y = 4.
+	•	Tips:
+	    1.	Build one layer at a time: each ring layer requires 16 stone_bricks (5×5 outer, minus 3×3 hole).
+	    2.	Place all four layers directly on top of each other for 4 levels of walls.
+	    3.	Ensure the interior remains open for future customization.
+	•	Description:
+	    •	This base provides a sturdy, 4-block-tall enclosure of stone_bricks, ready for a roof or second floor. The hollow center can be used for an interior floor, windows, or doors as needed.
+
+⸻
+
+2. Wooden Top Layer
+
+Structure Information
+	•	Structure: Oak Planks Roof
+	•	Material:
+	    •	oak_planks
+	•	Number of Materials:
+	    •	oak_planks: 25 total
+	•	Dimension:
+	    •	A single 5×5 layer that sits atop the stone_bricks base.
+	    •	5 blocks wide (x-axis), 5 blocks deep (z-axis), and 1 block high (y-axis).
+	•	Position:
+	    •	Start immediately above the 4th layer of stone_bricks, i.e., at y = 4.
+	    •	Extends up to y = 5.
+	•	Tips:
+	    1.	Cover the entire 5×5 area above the stone_bricks; this forms a flat roof.
+	    2.	If you want a ring-like look, you can visually differentiate a “border” vs. “center,” but all are oak_planks in this plan.
+	    3.	Make sure it neatly aligns with the wall edges.
+	•	Description:
+	    •	The wooden top seals the enclosure, forming a simple flat roof. It can serve as a final cap to the structure or a base for a second floor.
+
+⸻
+
+By following these two steps—first building the 4-layer stone_bricks enclosure, then capping it with the 5×5 oak_planks roof—you can fully reconstruct the building as shown. The hollow interior and simple roof make it a straightforward starter house or a foundation for further expansion.

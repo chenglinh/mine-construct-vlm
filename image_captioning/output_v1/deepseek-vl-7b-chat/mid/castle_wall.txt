@@ -1,0 +1,44 @@
+Structure Information:
+- Structure: Wall
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 10 blocks wide, 10 blocks high, and 1 block deep
+- Position: (0, 0, 0) to (10, 10, 1)
+- Tips: The wall is constructed with stone blocks, and the top and bottom edges are flat.
+- Description: This wall is a simple, solid structure made of stone blocks. It is designed to be sturdy and durable.
+
+Structure Information:
+- Structure: Tower
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 2 blocks wide, 2 blocks high, and 2 blocks deep
+- Position: (0, 0, 0) to (2, 2, 2)
+- Tips: The tower is a small, square structure made of stone blocks. It is designed to be a lookout point or defensive structure.
+- Description: This tower is a simple, square structure made of stone blocks. It is designed to be sturdy and durable.
+
+Structure Information:
+- Structure: Roof
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 10 blocks wide, 10 blocks high, and 1 block deep
+- Position: (0, 0, 0) to (10, 10, 1)
+- Tips: The roof is a flat, rectangular structure made of stone blocks. It is designed to provide shelter and protection.
+- Description: This roof is a flat, rectangular structure made of stone blocks. It is designed to provide shelter and protection.
+
+Structure Information:
+- Structure: Entrance
+- Material: Stone
+- Number of Materials: 1
+- Dimension: 2 blocks wide, 2 blocks high, and 2 blocks deep
+- Position: (0, 0, 0) to (2, 2, 2)
+- Tips: The entrance is a small, square structure made of stone blocks. It is designed to be a gateway into the building.
+- Description: This entrance is a small, square structure made of stone blocks. It is designed to be a gateway into the building.
+
+Structure Information:
+- Structure: Windows
+- Material: Glass
+- Number of Materials: 2
+- Dimension: 1 block wide, 1 block high, and 1 block deep
+- Position: (0, 0, 0) to (1, 1, 1) and (0, 1, 1) to (1, 0, 1)
+- Tips: The windows are small, square structures made of glass blocks. They are designed to allow light to enter the building.
+- Description: These windows are small, square structures made of glass blocks. They are designed to allow light to enter the building.
